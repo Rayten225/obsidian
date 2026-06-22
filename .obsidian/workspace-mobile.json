@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "558da02304ef0285",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa87cfb1e0363d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f02c581d997eaad5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежеденевник/Планы по неделям/2026/Неделя 23.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Неделя 23"
+            }
+          },
+          {
+            "id": "9df0dfe5ae1a0b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежеденевник/Планы по неделям/2026/Неделя 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Неделя 24"
+            }
+          },
+          {
+            "id": "be28173dd5f5668f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log/Days/2026-06-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-22"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24eb236f91e11ed6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0497b1813f3a86e3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "219e733e1b20ffc5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6981947887fec811",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": true,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "975581f3793cce6d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d80103c1a1dc39d7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "667b38d88eabacf0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Занятия на лето.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "302f0cd5b034039e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Ежеденевник/Планы по неделям/2026/Неделя 17.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "03f3d4d361d6c010",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Ежеденевник/Планы по неделям/2026/Неделя 17.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "8b7fe304f336bbfb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "be28173dd5f5668f",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258125.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132257856.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258124.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258186.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258160.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258036.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258038.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258143.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258233.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258257.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132257854.pdf",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258294.pdf",
+    "System/[SYS_INIT].md",
+    "Log/Days/2026-06-22.md",
+    "Log/Days",
+    "Log",
+    "Dashboard.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 25.md",
+    "Занятия на лето.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 24.md",
+    "Шаблоны/Шаблон неделя.md",
+    "База знаний/ЕГЭ/Русский/Номер 18.canvas",
+    "База знаний/ЕГЭ/Русский/Номер 16.canvas",
+    "База знаний/ЕГЭ/Русский/Номер 15.canvas",
+    "База знаний/ЕГЭ/Русский/Номер 13.canvas",
+    "База знаний/ЕГЭ/Русский/Номер 10.canvas",
+    "База знаний/ЕГЭ/Русский/Задание 7.canvas",
+    "База знаний/Английский/Chunks.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 23.md",
+    "Вложения/Untitled.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 23.sync-conflict-20260608-081648-MPAEL2L.md",
+    "Вложения/PDF/Задание_7__Теория__Слова_для_заучивания__afgk3.pdf",
+    "База знаний/ЕГЭ/Русский/Задание 18.canvas",
+    "База знаний/ЕГЭ/Математика/Формулы.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 26.md",
+    "База знаний/ЕГЭ/Русский/Словарики/Номер 10.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 19.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 18.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 17.md",
+    "Ежеденевник/Планы по неделям/2026/Неделя 16.md"
+  ]
+}

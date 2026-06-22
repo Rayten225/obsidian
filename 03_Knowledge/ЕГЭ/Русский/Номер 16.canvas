@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"9121d57b16c198d1","type":"text","text":"### Подлежащие во второй части выражено местоимением \n![[IMG-20260622132246221.png]]Хоть старик и \"он\" это один человек, но это два разных подлежащих, поэтому ставим запятую","x":-720,"y":-1740,"width":480,"height":220},
+		{"id":"ff6bbe370545239a","type":"text","text":"### Подлежащие в обоих частях разные\n![[IMG-20260622132246411.png]]\nОбычное предложение без хитростей, запятая ставится","x":-160,"y":-1740,"width":480,"height":160},
+		{"id":"0b737b5c2d3935b8","type":"text","text":"### У каждого подлежащего свое обстоятельство\n![[IMG-20260622132246623.png]]\nЕсли у каждого подлежащего свое обстоятельство (даже если оно обозначает одно и то же как на фото) то запятая ставится","x":-720,"y":-1470,"width":480,"height":220},
+		{"id":"785b912b9d6959fc","type":"text","text":"### Первая часть предложения безличная\n![[IMG-20260622132258125.png]]\nЕсли первая часть предложения безличная, то перед союзом ставится запятая","x":-160,"y":-1470,"width":480,"height":220},
+		{"id":"9c5b7f7ba9123d0e","type":"text","text":"### <font color=\"#c0504d\">Подлежащие имеют общее второстепенное (обстоятельство)</font>\n![[IMG-20260622132258143.png]]\nЕсли и первая часть и вторая относится к одному обстоятельству то запятая не ставится","x":400,"y":-1740,"width":480,"height":220},
+		{"id":"dfd3434c95ff984a","type":"text","text":"### Обстоятельство должно подходить по смыслу обоим частям\n![[IMG-20260622132258160.png]]\nНа окне лежат сливы но не мальчик, запятая ставится","x":400,"y":-1470,"width":480,"height":220},
+		{"id":"ef5e0dbefe788362","type":"text","text":"## Алгоритм работы:\n\n1. Нашли две основы\n2. Смотрим в начало первой и второй части (ищем обстоятельство времени/места)\n3. Определяем тип предложения:\n","x":-147,"y":-2080,"width":455,"height":180},
+		{"id":"b4d697b9ecd99969","type":"text","text":"<center>ССП</center>","x":-45,"y":-2180,"width":250,"height":60},
+		{"id":"bf5e94fe05c6317e","type":"text","text":"# <center>ССП и однородные</center>","x":-2070,"y":-2880,"width":596,"height":171},
+		{"id":"b2ceb0c33bcbeb2e","type":"text","text":"## Ищем грамматические основы, союзы и однородные","x":-1964,"y":-2632,"width":385,"height":80},
+		{"id":"b1cfaae035c8a03a","type":"text","text":"## Алгоритм работы:\n\n1. Между ОЧП ВСЕГДА есть либо союз либо запятая\n2. Найти союз\n","x":-3145,"y":-2120,"width":455,"height":140},
+		{"id":"375ba3c6e1957d63","type":"text","text":"<center>Однородные</center>","x":-3043,"y":-2220,"width":250,"height":60},
+		{"id":"f4ea5757595d8c78","type":"text","text":"## Сочинительные:\n\n| соеден | противит | сравнит |\n| ------ | -------- | ------- |\n| и      | но       | или     |\n| тоже   | однако   | либо    |\n| также  | зато     |         |\n| да = и | да = но  |         |\n|        | а        |         |\n<font color=\"#c0504d\">Запомнить!!!</font>\n","x":-1964,"y":-2220,"width":300,"height":340},
+		{"id":"c66519c66b1fe7ff","type":"text","text":"## Двойные:\n\nне только... , но и...\nкак... , так и...\nхотя и... , но...\nне столько... , сколько...\nесли не... , то...\n<font color=\"#c0504d\">Запомнить!!!</font>\n","x":-2240,"y":-2340,"width":240,"height":240},
+		{"id":"56fd74de955eff53","type":"text","text":"### Одиночный союз - не ставим\n![[IMG-20260622132258186.png]]\n### Повторяющийся - ставим после первого однородного кроме последнего\n![[IMG-20260622132258195.png|262]]","x":-3714,"y":-1800,"width":380,"height":550},
+		{"id":"81a71bfc1a4c3ff9","type":"text","text":"### Если союз \"да\" можно заменить на \"но\" то запятая нужна в любом случае. \n![[IMG-20260622132258216.png]]\n\nЕсли нельзя то правила те же как и при обычном союзе \"и\"","x":-3287,"y":-1800,"width":494,"height":303},
+		{"id":"9a0a3fba06b2a675","type":"text","text":"## <center>Другие случаи</center>\n![[IMG-20260622132258233.png]]","x":-2747,"y":-1800,"width":789,"height":671},
+		{"id":"84eb7acb9fcda749","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260622132258257.png","x":-3620,"y":-2313,"width":400,"height":246},
+		{"id":"047dec5b6afd58df","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260622132258294.pdf","x":-5040,"y":-2050,"width":1160,"height":1730}
+	],
+	"edges":[
+		{"id":"3370918bf0984cbb","fromNode":"bf5e94fe05c6317e","fromSide":"bottom","toNode":"b2ceb0c33bcbeb2e","toSide":"top"},
+		{"id":"1dba7461d68f3739","fromNode":"b4d697b9ecd99969","fromSide":"bottom","toNode":"ef5e0dbefe788362","toSide":"top"},
+		{"id":"e4a5ad995efafd0d","fromNode":"ef5e0dbefe788362","fromSide":"bottom","toNode":"9121d57b16c198d1","toSide":"top"},
+		{"id":"cd4c7bc0df7aab31","fromNode":"ef5e0dbefe788362","fromSide":"bottom","toNode":"ff6bbe370545239a","toSide":"top"},
+		{"id":"17a01f6c1487c2a7","fromNode":"ef5e0dbefe788362","fromSide":"bottom","toNode":"9c5b7f7ba9123d0e","toSide":"top"},
+		{"id":"ff551f866aff91e0","fromNode":"ef5e0dbefe788362","fromSide":"bottom","toNode":"0b737b5c2d3935b8","toSide":"top"},
+		{"id":"346df4e53f5b69c6","fromNode":"ef5e0dbefe788362","fromSide":"bottom","toNode":"785b912b9d6959fc","toSide":"top"},
+		{"id":"60f525fad9308d51","fromNode":"ef5e0dbefe788362","fromSide":"bottom","toNode":"dfd3434c95ff984a","toSide":"top"},
+		{"id":"3df3c79332da1ffc","fromNode":"b2ceb0c33bcbeb2e","fromSide":"bottom","toNode":"b4d697b9ecd99969","toSide":"top"},
+		{"id":"da57be4635262d22","fromNode":"375ba3c6e1957d63","fromSide":"bottom","toNode":"b1cfaae035c8a03a","toSide":"top"},
+		{"id":"051e6c538d2f0802","fromNode":"b2ceb0c33bcbeb2e","fromSide":"bottom","toNode":"375ba3c6e1957d63","toSide":"top"},
+		{"id":"2edf253e121a061d","fromNode":"b1cfaae035c8a03a","fromSide":"right","toNode":"f4ea5757595d8c78","toSide":"left"},
+		{"id":"2ec4b02ca8090389","fromNode":"b1cfaae035c8a03a","fromSide":"right","toNode":"c66519c66b1fe7ff","toSide":"left"},
+		{"id":"ea8d4053f4bd32b1","fromNode":"b1cfaae035c8a03a","fromSide":"bottom","toNode":"56fd74de955eff53","toSide":"top"},
+		{"id":"7e1867b5b86c398c","fromNode":"b1cfaae035c8a03a","fromSide":"bottom","toNode":"9a0a3fba06b2a675","toSide":"top"},
+		{"id":"04839369e9d21bc3","fromNode":"b1cfaae035c8a03a","fromSide":"bottom","toNode":"81a71bfc1a4c3ff9","toSide":"top"},
+		{"id":"c9b3e54a6f017671","fromNode":"375ba3c6e1957d63","fromSide":"left","toNode":"84eb7acb9fcda749","toSide":"right"}
+	]
+}
