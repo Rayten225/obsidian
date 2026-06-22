@@ -211,8 +211,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "91e0d834e909f0a9",
@@ -269,7 +268,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a779024a4f723570",
+  "active": "18a7d6ef5ea0209b",
   "lastOpenFiles": [
     "02_Log/Week/2026-W26.md",
     "Log/Days/2026-06-22.md",

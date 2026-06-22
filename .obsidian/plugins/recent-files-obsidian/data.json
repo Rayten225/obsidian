@@ -9,6 +9,10 @@
       "path": "Tasks.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2026-W26",
       "path": "02_Log/Week/2026-W26.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Day template",
       "path": "System/Templates/Day template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Номер 16",
