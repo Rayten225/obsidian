@@ -15,16 +15,28 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Log/Days",
+      "folder": "02_Log/Days",
       "template": "System/Templates/Day template.md"
     },
     {
-      "folder": "Log/Years",
+      "folder": "02_Log/Years",
       "template": "System/Templates/Year template.md"
     },
     {
-      "folder": "Log/Week",
+      "folder": "02_Log/Week",
       "template": "System/Templates/Week template.md"
+    },
+    {
+      "folder": "03_Knowledge/Englich/Grammar_Engine",
+      "template": "System/Templates/ENG_Grammar.md"
+    },
+    {
+      "folder": "03_Knowledge/Englich/Error_Tracker",
+      "template": "System/Templates/ENG_Bug.md"
+    },
+    {
+      "folder": "03_Knowledge/Englich/Chunks_Vocabulary",
+      "template": "System/Templates/ENG_Chunks.md"
     }
   ],
   "enable_file_templates": false,

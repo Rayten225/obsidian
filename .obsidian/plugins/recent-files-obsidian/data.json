@@ -1,52 +1,71 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-06-22",
-      "path": "Log/Days/2026-06-22.md"
-    },
-    {
       "basename": "Tasks",
       "path": "Tasks.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2026-W26",
       "path": "02_Log/Week/2026-W26.md"
     },
     {
-      "basename": "Неделя 26",
-      "path": "Archive/Ежеденевник/Планы по неделям/2026/Неделя 26.md"
+      "basename": "2026-06-23",
+      "path": "02_Log/Days/2026-06-23.md"
     },
     {
-      "basename": "Day template",
-      "path": "System/Templates/Day template.md"
+      "basename": "ENGLISH_HUB",
+      "path": "03_Knowledge/English/ENGLISH_HUB.md"
     },
     {
-      "basename": "Номер 16",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номер 16.canvas"
+      "basename": "pay attention to",
+      "path": "03_Knowledge/English/Chunks_Vocabulary/pay attention to.md"
+    },
+    {
+      "basename": "2026-06-22",
+      "path": "02_Log/Days/2026-06-22.md"
+    },
+    {
+      "basename": "get rid of",
+      "path": "03_Knowledge/English/Chunks_Vocabulary/get rid of.md"
+    },
+    {
+      "basename": "[SYS_INIT]",
+      "path": "System/[SYS_INIT].md"
+    },
+    {
+      "basename": "ENG_Chunks",
+      "path": "System/Templates/ENG_Chunks.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Present Perfect Continuous",
+      "path": "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md"
+    },
+    {
+      "basename": "I code in Python for 3 years",
+      "path": "03_Knowledge/English/Error_Tracker/I code in Python for 3 years.md"
+    },
+    {
+      "basename": "ENG_Grammar",
+      "path": "System/Templates/ENG_Grammar.md"
+    },
+    {
+      "basename": "ENG_Bug",
+      "path": "System/Templates/ENG_Bug.md"
     },
     {
       "basename": "Номер 15",
       "path": "03_Knowledge/ЕГЭ/Русский/Номер 15.canvas"
-    },
-    {
-      "basename": "Номер 13",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номер 13.canvas"
-    },
-    {
-      "basename": "Номер 10",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номер 10.canvas"
-    },
-    {
-      "basename": "Задание 7",
-      "path": "03_Knowledge/ЕГЭ/Русский/Задание 7.canvas"
     }
   ],
-  "omittedPaths": [],
+  "omittedPaths": [
+    ""
+  ],
   "omittedTags": [],
   "updateOn": "file-open",
-  "omitBookmarks": false
+  "omitBookmarks": false,
+  "maxLength": 15
 }
