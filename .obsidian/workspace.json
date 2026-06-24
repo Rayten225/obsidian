@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "1127c914020434eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Log/Days/2026-06-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-22"
+              "title": "2026-W26"
             }
           }
         ]
@@ -148,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Tasks"
+              "title": "Граф 2026-W26"
             }
           },
           {
@@ -314,16 +300,35 @@
   },
   "active": "a8678ede13b6ff14",
   "lastOpenFiles": [
+    "Tasks.md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 15 (Н и НН).md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 7 (формы слова).md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 10 (приставки).md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 18 (вводные слова и обращения).md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 16 (ССП и однородные).md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 16.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 13 (НЕ и НИ).md",
+    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
+    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 7.canvas",
+    "02_Log/Days/2026-06-20.md",
+    "Dashboard.md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 15.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 18.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 13.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 10.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 4.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Схемы",
+    "02_Log/Week/2026-W26.md",
+    "02_Log/Days/2026-06-24.md",
     "02_Log/Days/2026-06-23.md",
+    "01_Domains/Summer ideas.md",
     "03_Knowledge/English/ENGLISH_HUB.md",
     "03_Knowledge/English/Chunks_Vocabulary/pay attention to.md",
     "02_Log/Days/2026-06-22.md",
     "03_Knowledge/English/Chunks_Vocabulary/get rid of.md",
     "System/[SYS_INIT].md",
     "System/Templates/ENG_Chunks.md",
-    "02_Log/Week/2026-W26.md",
-    "Tasks.md",
-    "Dashboard.md",
     "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md",
     "03_Knowledge/English/Error_Tracker/I code in Python for 3 years.md",
     "03_Knowledge/English/Grammar_Engine",
@@ -334,36 +339,17 @@
     "Log/Days/2026-06-22.md",
     "Log/Days",
     "Log",
-    "03_Knowledge/Englich/Grammar_Engine/Present Perfect Continuous.md",
-    "03_Knowledge/Englich/Error_Tracker/I code in Python for 3 years.md",
-    "03_Knowledge/Englich/Chunks_Vocabulary/get rid of.md",
-    "System/Templates/ENG_Grammar.md",
-    "System/Templates/ENG_Bug.md",
-    "03_Knowledge/ЕГЭ/Русский/Номер 15.canvas",
-    "03_Knowledge/Englich/Chunks.md",
-    "Log/Days/NaN-WNaN.md",
-    "Log/Days/Тут ссылка на правило из папки Grammar.md",
     "03_Knowledge/Englich/Error_Tracker",
     "03_Knowledge/Englich/03_Daily_Logs",
     "03_Knowledge/Englich/Chunks_Vocabulary",
-    "03_Knowledge/Englich/Grammar_Engine",
-    "03_Knowledge/Englich/Daly note.md",
-    "03_Knowledge/Englich/Урок 193.md",
-    "Archive/Ежеденевник/Планы по неделям/2026/Неделя 26.md",
-    "System/Templates/Day template.md",
-    "03_Knowledge/ЕГЭ/Русский/Номер 16.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номер 13.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номер 10.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Задание 7.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номер 18.canvas",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258040.png",
     "Pasted image 20260605115328.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258085.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258038.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260605164814273.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258124.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260624113423004.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132257857.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132246543.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260624113421277.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258036.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132257855.png",
     "База знаний/ЕГЭ/Математика/Без названия.canvas",
