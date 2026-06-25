@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W26.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W26"
+              "title": "Tasks"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Log/Week/2026-W26.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 2026-W26"
+              "title": "Граф Tasks"
             }
           },
           {
@@ -300,7 +300,14 @@
   },
   "active": "a8678ede13b6ff14",
   "lastOpenFiles": [
+    "02_Log/Week/2026-W26.md",
     "Tasks.md",
+    "02_Log/Days/2026-06-25.md",
+    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
+    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
+    "02_Log/Days/2026-06-24.md",
+    "02_Log/Days/2026-06-23.md",
+    "02_Log/Days/2026-06-22.md",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 15 (Н и НН).md",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 7 (формы слова).md",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 10 (приставки).md",
@@ -308,8 +315,6 @@
     "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 16 (ССП и однородные).md",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 16.canvas",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 13 (НЕ и НИ).md",
-    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
-    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 7.canvas",
     "02_Log/Days/2026-06-20.md",
     "Dashboard.md",
@@ -319,13 +324,9 @@
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 4.canvas",
     "03_Knowledge/ЕГЭ/Русский/Схемы",
-    "02_Log/Week/2026-W26.md",
-    "02_Log/Days/2026-06-24.md",
-    "02_Log/Days/2026-06-23.md",
     "01_Domains/Summer ideas.md",
     "03_Knowledge/English/ENGLISH_HUB.md",
     "03_Knowledge/English/Chunks_Vocabulary/pay attention to.md",
-    "02_Log/Days/2026-06-22.md",
     "03_Knowledge/English/Chunks_Vocabulary/get rid of.md",
     "System/[SYS_INIT].md",
     "System/Templates/ENG_Chunks.md",

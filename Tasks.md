@@ -4,6 +4,8 @@
 - [ ] Обсудить с мамой обследование в Екб 
 - [ ] спросить про ночевку с викой в Дубровное 3-5
 - [ ] Исправить формы слова 
+- [ ] Велюр 
+- [ ] проанализировать падение 
 
 ---
 ### ⏳ Забытое в ежедневниках (Долги)
@@ -22,10 +24,10 @@ TABLE task_num as "Задания", (date(today) - last_check).days as "Дней
 FROM "03_Knowledge/ЕГЭ/Русский/Схемы"
 WHERE type = "rus_schema"
 SORT (date(today) - last_check).days DESC
-LIMIT 2
+LIMIT 1
 ```
 
-### 🎯 Огневой рубеж: Ударения (Лимит: 10 в день)
+### 🎯 Огневой рубеж: Ударения
 ```dataviewjs
 const filePath = "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md";
 const tFile = app.vault.getAbstractFileByPath(filePath);
@@ -38,22 +40,21 @@ if (!page) return;
 const allTasks = page.file.tasks;
 const openTasks = allTasks.filter(t => !t.completed);
 
-// === 🏆 СЦЕНАРИЙ АБСОЛЮТНОЙ ПОБЕДЫ (100% БАЗЫ ПРОЙДЕНО) ===
+// === 🏆 СЦЕНАРИЙ АБСОЛЮТНОЙ ПОБЕДЫ ===
 if (allTasks.length > 0 && openTasks.length === 0) {
     const winDiv = document.createElement("div");
     winDiv.innerHTML = `
-        <div style="padding: 24px; background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%); color: white; border-radius: 12px; text-align: center; box-shadow: 0 10px 25px -5px rgba(245, 158, 11, 0.4);">
+        <div style="padding: 24px; background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%); color: white; border-radius: 12px; text-align: center; box-shadow: 0 10px 25px -5px rgba(245, 158, 11, 0.4); margin-bottom: 20px;">
             <h2 style="margin: 0 0 10px 0; color: white; font-size: 24px;">🏆 БАЗА ФИПИ ВЫУЧЕНА НА 100%!</h2>
-            <p style="margin: 0 0 20px 0; font-size: 15px; opacity: 0.9.5;">Ты железобетонно закрыл все ${allTasks.length} слов. Твой процессор великолепен.</p>
-            <button id="ng-plus-btn" style="background: white; color: #D97706; border: none; padding: 12px 24px; font-size: 16px; font-weight: bold; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); transition: all 0.2s;">
+            <p style="margin: 0 0 20px 0; font-size: 15px; opacity: 0.95;">Ты железобетонно закрыл все ${allTasks.length} слов. Твой процессор великолепен.</p>
+            <button id="ng-plus-btn-4" style="background: white; color: #D97706; border: none; padding: 12px 24px; font-size: 16px; font-weight: bold; border-radius: 8px; cursor: pointer; width: 100%; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
                 🔄 ИДТИ НА 2-Й КРУГ (Сбросить все галочки)
             </button>
         </div>
     `;
     dv.container.appendChild(winDiv);
 
-    document.getElementById("ng-plus-btn").onclick = async () => {
-        // Ядерная очистка: заменяем все - [x] обратно на - [ ]
+    document.getElementById("ng-plus-btn-4").onclick = async () => {
         await app.vault.process(tFile, data => data.replace(/- \[x\]/g, "- [ ]"));
     };
     return;
@@ -65,9 +66,9 @@ const remain = limit - processedToday;
 
 // === ⏳ СЦЕНАРИЙ СУТОЧНОЙ НОРМЫ ===
 if (remain <= 0) {
-    dv.el("div", `<div style="padding:15px; background:#10B981; color:white; border-radius:8px; text-align:center; font-size: 16px; margin-bottom: 15px;">
+    dv.el("div", `<div style="padding:16px; background:#10B981; color:white; border-radius:8px; text-align:center; font-size: 15px; font-weight: 500; margin-bottom: 20px;">
     🎉 <b>НОРМА УДАРЕНИЙ ВЫПОЛНЕНА!</b><br>
-    <span style="font-size: 13px;">Ты разобрал ${limit} слов. Возвращайся завтра в 00:01.</span>
+    <span style="font-size: 12px; opacity: 0.9;">Ты разобрал ${limit} слов. Возвращайся завтра в 00:01.</span>
     </div>`);
     return;
 }
@@ -76,33 +77,48 @@ dv.header(4, `🎯 Ударения (Осталось на сегодня: ${rem
 
 let batchPool = Array.from(openTasks.filter(t => !t.text.includes(`🗓️${today}`)));
 
+// === 🎲 СТАБИЛЬНЫЙ РАНДОМ (Хэш-функция) ===
+function getHash(text) {
+    const clean = text.replace(/\[fails:: \d+\]/g, "").replace(/ 🗓️\d{4}-\d{2}-\d{2}/g, "").trim();
+    const str = clean + today; 
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        hash = ((hash << 5) - hash) + str.charCodeAt(i);
+        hash |= 0;
+    }
+    return hash;
+}
+
+// Сортировка: сначала по ошибкам, при равных ошибках — по стабильному хэшу
 batchPool.sort((a, b) => {
     const fA = a.text.match(/\[fails:: (\d+)\]/) ? parseInt(a.text.match(/\[fails:: (\d+)\]/)[1]) : 0;
     const fB = b.text.match(/\[fails:: (\d+)\]/) ? parseInt(b.text.match(/\[fails:: (\d+)\]/)[1]) : 0;
-    return fA - fB;
+    
+    if (fA !== fB) {
+        return fA - fB;
+    }
+    return getHash(a.text) - getHash(b.text);
 });
 
 const batch = batchPool.slice(0, remain);
 
-const table = document.createElement("table");
-table.style.width = "100%";
-table.style.marginTop = "10px";
+// Мобильно-ориентированный контейнер списков
+const container = document.createElement("div");
+container.style.cssText = "display: flex; flex-direction: column; gap: 12px; margin-top: 10px;";
 
 batch.forEach(t => {
-    const tr = document.createElement("tr");
+    const row = document.createElement("div");
+    row.style.cssText = "display: flex; flex-direction: column; padding: 12px; background: var(--background-primary-alt); border-radius: 8px; border: 1px solid var(--background-modifier-border);";
     
     let wordHtml = t.text.replace(/\[fails:: \d+\]/g, "").replace(/ 🗓️\d{4}-\d{2}-\d{2}/g, "").trim();
     wordHtml = wordHtml.replace(/\*\*(.*?)\*\*/g, "<b>$1</b>");
 
-    const tdWord = document.createElement("td");
-    tdWord.innerHTML = wordHtml;
-    tdWord.style.padding = "10px 5px";
-    tdWord.style.borderBottom = "1px solid var(--background-modifier-border)";
+    const textDiv = document.createElement("div");
+    textDiv.innerHTML = wordHtml;
+    textDiv.style.cssText = "font-size: 15px; margin-bottom: 10px; line-height: 1.4; color: var(--text-normal);";
     
-    const tdActions = document.createElement("td");
-    tdActions.style.textAlign = "right";
-    tdActions.style.minWidth = "180px";
-    tdActions.style.borderBottom = "1px solid var(--background-modifier-border)";
+    const actionsDiv = document.createElement("div");
+    actionsDiv.style.cssText = "display: flex; gap: 8px; width: 100%;";
 
     async function processTask(isSuccess) {
         let currentFailsMatch = t.text.match(/\[fails:: (\d+)\]/);
@@ -126,26 +142,25 @@ batch.forEach(t => {
 
     const btnWin = document.createElement("button");
     btnWin.innerText = "✅ Знаю";
-    btnWin.style.cssText = "background: #10B981; color: white; border: none; padding: 6px 12px; border-radius: 6px; cursor: pointer; margin-right: 8px; font-weight: bold;";
+    btnWin.style.cssText = "flex: 1; background: #10B981; color: white; border: none; padding: 10px; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 14px;";
     btnWin.onclick = async () => await processTask(true);
 
     const btnFail = document.createElement("button");
     btnFail.innerText = "❌ Ошибся";
-    btnFail.style.cssText = "background: #EF4444; color: white; border: none; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-weight: bold;";
+    btnFail.style.cssText = "flex: 1; background: #EF4444; color: white; border: none; padding: 10px; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 14px;";
     btnFail.onclick = async () => await processTask(false);
 
-    tdActions.appendChild(btnWin);
-    tdActions.appendChild(btnFail);
+    actionsDiv.appendChild(btnWin);
+    actionsDiv.appendChild(btnFail);
     
-    tr.appendChild(tdWord);
-    tr.appendChild(tdActions);
-    table.appendChild(tr);
+    row.appendChild(textDiv);
+    row.appendChild(actionsDiv);
+    container.appendChild(row);
 });
 
-dv.container.appendChild(table);
+dv.container.appendChild(container);
 ```
-
-### 🧬 Огневой рубеж: Формы слов (Лимит: 10 в день)
+### 🎯 Огневой рубеж: Формы слова
 ```dataviewjs
 const filePath = "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md";
 const tFile = app.vault.getAbstractFileByPath(filePath);
@@ -158,7 +173,7 @@ if (!page) return;
 const allTasks = page.file.tasks;
 const openTasks = allTasks.filter(t => !t.completed);
 
-// === 🏆 СЦЕНАРИЙ АБСОЛЮТНОЙ ПОБЕДЫ (100% БАЗЫ ПРОЙДЕНО) ===
+// === 🏆 СЦЕНАРИЙ АБСОЛЮТНОЙ ПОБЕДЫ ===
 if (allTasks.length > 0 && openTasks.length === 0) {
     const winDiv = document.createElement("div");
     winDiv.innerHTML = `
@@ -195,11 +210,30 @@ dv.header(4, `🧬 Формы слов (Осталось на сегодня: ${
 
 let batchPool = Array.from(openTasks.filter(t => !t.text.includes(`🗓️${today}`)));
 
-// Инвертированная сортировка: сначала чистые (0), косячные падают на дно
+// === 🎲 СТАБИЛЬНЫЙ РАНДОМ (Хэш-функция) ===
+// Генерируем уникальный, но постоянный на сегодня "вес" для каждого слова
+function getHash(text) {
+    const clean = text.replace(/\[fails:: \d+\]/g, "").replace(/ 🗓️\d{4}-\d{2}-\d{2}/g, "").trim();
+    const str = clean + today; 
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        hash = ((hash << 5) - hash) + str.charCodeAt(i);
+        hash |= 0;
+    }
+    return hash;
+}
+
+// Сортировка: сначала по ошибкам (0 идут первыми), при равных ошибках — по стабильному хэшу
 batchPool.sort((a, b) => {
     const fA = a.text.match(/\[fails:: (\d+)\]/) ? parseInt(a.text.match(/\[fails:: (\d+)\]/)[1]) : 0;
     const fB = b.text.match(/\[fails:: (\d+)\]/) ? parseInt(b.text.match(/\[fails:: (\d+)\]/)[1]) : 0;
-    return fA - fB;
+    
+    if (fA !== fB) {
+        return fA - fB;
+    }
+    
+    // Если ошибок поровну — сортируем по нашему замороженному рандому
+    return getHash(a.text) - getHash(b.text);
 });
 
 const batch = batchPool.slice(0, remain);
@@ -219,7 +253,6 @@ batch.forEach(t => {
     textDiv.innerHTML = wordHtml;
     textDiv.style.cssText = "font-size: 15px; margin-bottom: 10px; line-height: 1.4; color: var(--text-normal);";
     
-    // Большие сенсорные кнопки для пальцев
     const actionsDiv = document.createElement("div");
     actionsDiv.style.cssText = "display: flex; gap: 8px; width: 100%;";
 
