@@ -9,6 +9,42 @@
       "path": "02_Log/Week/2026-W26.md"
     },
     {
+      "basename": "ENGLISH_HUB",
+      "path": "03_Knowledge/English/ENGLISH_HUB.md"
+    },
+    {
+      "basename": "Future Simple",
+      "path": "03_Knowledge/English/Grammar_Engine/Future Simple.md"
+    },
+    {
+      "basename": "[SYS_INIT]",
+      "path": "System/[SYS_INIT].md"
+    },
+    {
+      "basename": "Past Simple",
+      "path": "03_Knowledge/English/Grammar_Engine/Past Simple.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "03_Knowledge/English/Grammar_Engine/Present Simple.md"
+    },
+    {
+      "basename": "Present Perfect",
+      "path": "03_Knowledge/English/Grammar_Engine/Present Perfect.md"
+    },
+    {
+      "basename": "2026-06-26",
+      "path": "02_Log/Days/2026-06-26.md"
+    },
+    {
+      "basename": "Present Perfect Continuous",
+      "path": "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md"
+    },
+    {
+      "basename": "Задание 10 (приставки)",
+      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 10 (приставки).md"
+    },
+    {
       "basename": "2026-06-25",
       "path": "02_Log/Days/2026-06-25.md"
     },
@@ -23,42 +59,6 @@
     {
       "basename": "2026-06-24",
       "path": "02_Log/Days/2026-06-24.md"
-    },
-    {
-      "basename": "2026-06-23",
-      "path": "02_Log/Days/2026-06-23.md"
-    },
-    {
-      "basename": "2026-06-22",
-      "path": "02_Log/Days/2026-06-22.md"
-    },
-    {
-      "basename": "Задание 15 (Н и НН)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 15 (Н и НН).md"
-    },
-    {
-      "basename": "Задание 7 (формы слова)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 7 (формы слова).md"
-    },
-    {
-      "basename": "Задание 10 (приставки)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 10 (приставки).md"
-    },
-    {
-      "basename": "Задание 18 (вводные слова и обращения)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 18 (вводные слова и обращения).md"
-    },
-    {
-      "basename": "Задание 16 (ССП и однородные)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 16 (ССП и однородные).md"
-    },
-    {
-      "basename": "Номер 16",
-      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 16.canvas"
-    },
-    {
-      "basename": "Задание 13 (НЕ и НИ)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 13 (НЕ и НИ).md"
     }
   ],
   "omittedPaths": [
