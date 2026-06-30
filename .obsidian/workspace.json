@@ -8,7 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8678ede13b6ff14",
+            "id": "f8fd2b60e1a0ad40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Log/Days/2026-06-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-29"
+            }
+          },
+          {
+            "id": "fd6761f95c6f3c47",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
+                "viewState": {
+                  "x": 234.15734044919316,
+                  "y": -403.4533656201626,
+                  "zoom": -0.7145341173181327
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Номер 17"
+            }
+          },
+          {
+            "id": "59b242c0b700b0b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +52,8 @@
               "title": "Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,42 +330,48 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "a8678ede13b6ff14",
+  "active": "59b242c0b700b0b2",
   "lastOpenFiles": [
-    "02_Log/Week/2026-W26.md",
+    "02_Log/Week/2026-W27.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова).md",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260629213129130.png",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.sync-conflict-20260629-213128-MPAEL2L.canvas",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260629213129112.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260629213129039.png",
+    "Pasted image 20260629101518.png",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот).md",
+    "02_Log/Days/2026-06-29.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 18 (вводные слова и обращения).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 16 (ССП и однородные).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 18.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
+    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/Без названия.md",
+    "03_Knowledge/ЕГЭ/Русский/Схемы/З.md",
+    "System/[SYS_INIT].md",
     "Tasks.md",
+    "02_Log/Week/2026-W26.md",
+    "02_Log/Week/2026-W26.sync-conflict-20260629-100450-MPAEL2L.md",
+    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.sync-conflict-20260629-100450-MPAEL2L.md",
+    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.sync-conflict-20260629-100450-MPAEL2L.md",
+    "02_Log/Days/2026-06-26.md",
     "03_Knowledge/English/ENGLISH_HUB.md",
     "03_Knowledge/English/Grammar_Engine/Future Simple.md",
-    "System/[SYS_INIT].md",
     "03_Knowledge/English/Grammar_Engine/Past Simple.md",
     "03_Knowledge/English/Grammar_Engine/Present Simple.md",
     "03_Knowledge/English/Grammar_Engine/Present Perfect.md",
-    "02_Log/Days/2026-06-26.md",
     "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 10 (приставки).md",
-    "02_Log/Days/2026-06-25.md",
-    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
-    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
-    "02_Log/Days/2026-06-24.md",
-    "02_Log/Days/2026-06-23.md",
-    "02_Log/Days/2026-06-22.md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 15 (Н и НН).md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 7 (формы слова).md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 18 (вводные слова и обращения).md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 16 (ССП и однородные).md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 16.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Задание 13 (НЕ и НИ).md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 7.canvas",
-    "02_Log/Days/2026-06-20.md",
-    "Dashboard.md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 15.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 18.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 13.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 10.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 16.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 7.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 15.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 13.canvas",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 4.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Схемы",
-    "01_Domains/Summer ideas.md",
-    "03_Knowledge/English/Chunks_Vocabulary/pay attention to.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера",
     "03_Knowledge/English/Grammar_Engine",
     "03_Knowledge/English/Error_Tracker",
     "03_Knowledge/English/Chunks_Vocabulary",
@@ -342,19 +380,12 @@
     "Log",
     "03_Knowledge/Englich/Error_Tracker",
     "03_Knowledge/Englich/03_Daily_Logs",
-    "03_Knowledge/Englich/Chunks_Vocabulary",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258040.png",
     "Pasted image 20260605115328.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258085.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258038.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260605164814273.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260624113423004.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132257857.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260624113421277.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258036.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132257855.png",
-    "База знаний/ЕГЭ/Математика/Без названия.canvas",
-    "Untitled.canvas",
-    "Ежеденевник/Планы на год/Карта желаний 2026.canvas"
+    "System/Investments/PDF/ Audio/ Other/IMG-20260629134302065.png",
+    "База знаний/ЕГЭ/Математика/Без названия.canvas"
   ]
 }

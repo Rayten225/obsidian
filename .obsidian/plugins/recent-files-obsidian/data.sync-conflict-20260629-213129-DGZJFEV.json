@@ -9,24 +9,8 @@
       "path": "02_Log/Days/2026-06-29.md"
     },
     {
-      "basename": "2026-W27",
-      "path": "02_Log/Week/2026-W27.md"
-    },
-    {
-      "basename": "Задание 7 (формы слова)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова).md"
-    },
-    {
-      "basename": "IMG-20260629213129130",
-      "path": "System/Investments/PDF/ Audio/ Other/IMG-20260629213129130.png"
-    },
-    {
-      "basename": "IMG-20260629213129112",
-      "path": "System/Investments/PDF/ Audio/ Other/IMG-20260629213129112.png"
-    },
-    {
-      "basename": "IMG-20260629213129039",
-      "path": "System/Investments/PDF/ Audio/ Other/IMG-20260629213129039.png"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Номер 17",
@@ -35,6 +19,18 @@
     {
       "basename": "Задание 17 (прич и дееприч оборот)",
       "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот).md"
+    },
+    {
+      "basename": "Pasted image 20260629142651",
+      "path": "Pasted image 20260629142651.png"
+    },
+    {
+      "basename": "Pasted image 20260629142909",
+      "path": "Pasted image 20260629142909.png"
+    },
+    {
+      "basename": "Задание 7 (формы слова)",
+      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова).md"
     },
     {
       "basename": "Задание 18 (вводные слова и обращения)",
@@ -59,6 +55,10 @@
     {
       "basename": "Номер 18",
       "path": "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 18.canvas"
+    },
+    {
+      "basename": "Номер 10",
+      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas"
     }
   ],
   "omittedPaths": [

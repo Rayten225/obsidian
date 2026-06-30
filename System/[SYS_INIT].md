@@ -1,6 +1,6 @@
 ```dataviewjs
 // 1. Укажи тут точную дату своего экзамена (Год-Месяц-День)
-const target = moment("2027-05-26"); 
+const target = moment("2027-06-01"); 
 const daysLeft = target.diff(moment(), 'days');
 
 // 2. Выгребаем все заметки, в которых заполнено хотя бы одно из наших свойств
@@ -23,7 +23,7 @@ dv.span(`
     ├─ 📚 ЕГЭ:  <b>${clean(tEge)} ч.</b><br>
     ├─ 💻 Код / СЕО:  <b>${clean(tWork)} ч.</b><br>
     ├─ 💪 Тоннаж (зал): <b>${tGym.toLocaleString('ru-RU')} кг</b><br>
-    └─ ⏳ Прыжок (ЕГЭ): <b style="color:#EF4444;">${daysLeft} дн.</b>
+    └─ ⏳ Прыжок (ЕГЭ): <b style="color:#EF4444;">${daysLeft+1} дн.</b>
 </div>
 `);
 ```

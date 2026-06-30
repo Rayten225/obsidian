@@ -41,4 +41,3 @@ const chartData = {
 
 window.renderChart(chartData, this.container);
 ```
-
