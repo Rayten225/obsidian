@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W27.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-W27"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "be28173dd5f5668f",
   "lastOpenFiles": [
-    "02_Log/Days/2026-06-29.md",
     "Tasks.md",
+    "02_Log/Days/2026-06-29.md",
     "Dashboard.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот).md",

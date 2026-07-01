@@ -5,12 +5,16 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "2026-06-29",
-      "path": "02_Log/Days/2026-06-29.md"
-    },
-    {
       "basename": "2026-W27",
       "path": "02_Log/Week/2026-W27.md"
+    },
+    {
+      "basename": "2026-06-30",
+      "path": "02_Log/Days/2026-06-30.md"
+    },
+    {
+      "basename": "2026-06-29",
+      "path": "02_Log/Days/2026-06-29.md"
     },
     {
       "basename": "Задание 7 (формы слова)",
@@ -55,10 +59,6 @@
     {
       "basename": "Задание 10 (приставки)",
       "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки).md"
-    },
-    {
-      "basename": "Номер 18",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 18.canvas"
     }
   ],
   "omittedPaths": [

@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8fd2b60e1a0ad40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Log/Days/2026-06-29.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-29"
-            }
-          },
-          {
             "id": "fd6761f95c6f3c47",
             "type": "leaf",
             "state": {
@@ -53,7 +39,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,6 +318,9 @@
   },
   "active": "59b242c0b700b0b2",
   "lastOpenFiles": [
+    "02_Log/Days/2026-06-29.md",
+    "02_Log/Days/2026-06-30.md",
+    "Tasks.md",
     "02_Log/Week/2026-W27.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова).md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260629213129130.png",
@@ -341,7 +330,6 @@
     "Pasted image 20260629101518.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот).md",
-    "02_Log/Days/2026-06-29.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 18 (вводные слова и обращения).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 16 (ССП и однородные).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН).md",
@@ -354,7 +342,6 @@
     "03_Knowledge/ЕГЭ/Русский/Схемы/Без названия.md",
     "03_Knowledge/ЕГЭ/Русский/Схемы/З.md",
     "System/[SYS_INIT].md",
-    "Tasks.md",
     "02_Log/Week/2026-W26.md",
     "02_Log/Week/2026-W26.sync-conflict-20260629-100450-MPAEL2L.md",
     "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.sync-conflict-20260629-100450-MPAEL2L.md",
