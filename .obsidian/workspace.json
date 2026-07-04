@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba2564257e32b45",
+        "id": "c550d6259d259cf4",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6761f95c6f3c47",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
-                "viewState": {
-                  "x": 234.15734044919316,
-                  "y": -403.4533656201626,
-                  "zoom": -0.7145341173181327
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Номер 17"
-            }
-          },
-          {
-            "id": "59b242c0b700b0b2",
+            "id": "c82aeeded768a10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,8 +21,7 @@
               "title": "Tasks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,43 +298,46 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "59b242c0b700b0b2",
+  "active": "c82aeeded768a10f",
   "lastOpenFiles": [
+    "02_Log/Days/2026-06-22.md",
+    "03_Knowledge/English/Grammar_Engine/Past Simple.md",
+    "03_Knowledge/English/Grammar_Engine/Present Perfect.md",
+    "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md",
+    "03_Knowledge/English/Grammar_Engine/Present Simple.md",
+    "02_Log/Days/2026-07-02.md",
     "02_Log/Days/2026-06-29.md",
+    "02_Log/Days/2026-06-23.md",
+    "02_Log/Days/2026-06-24.md",
+    "02_Log/Days/2026-06-25.md",
+    "02_Log/Days/2026-06-26.md",
+    "02_Log/Days/2026-07-01.md",
     "02_Log/Days/2026-06-30.md",
-    "Tasks.md",
     "02_Log/Week/2026-W27.md",
+    "Tasks.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
+    "Dashboard.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
+    "00_Inbox/егэ инфа.md",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260702080910470.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260702080905986.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова).md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260629213129130.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.sync-conflict-20260629-213128-MPAEL2L.canvas",
     "System/Investments/PDF/ Audio/ Other/IMG-20260629213129112.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260629213129039.png",
     "Pasted image 20260629101518.png",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 18 (вводные слова и обращения).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 16 (ССП и однородные).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ).md",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 18.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Без названия.md",
-    "03_Knowledge/ЕГЭ/Русский/Схемы/З.md",
-    "System/[SYS_INIT].md",
-    "02_Log/Week/2026-W26.md",
-    "02_Log/Week/2026-W26.sync-conflict-20260629-100450-MPAEL2L.md",
-    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.sync-conflict-20260629-100450-MPAEL2L.md",
-    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.sync-conflict-20260629-100450-MPAEL2L.md",
-    "02_Log/Days/2026-06-26.md",
-    "03_Knowledge/English/ENGLISH_HUB.md",
-    "03_Knowledge/English/Grammar_Engine/Future Simple.md",
-    "03_Knowledge/English/Grammar_Engine/Past Simple.md",
-    "03_Knowledge/English/Grammar_Engine/Present Simple.md",
-    "03_Knowledge/English/Grammar_Engine/Present Perfect.md",
-    "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 16.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 7.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 15.canvas",
@@ -370,9 +355,6 @@
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258040.png",
     "Pasted image 20260605115328.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258085.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258038.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260605164814273.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260629134302065.png",
     "База знаний/ЕГЭ/Математика/Без названия.canvas"
   ]
 }

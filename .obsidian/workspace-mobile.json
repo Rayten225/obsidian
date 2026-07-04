@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W27.md",
+                "file": "Tasks.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-W27"
+              "title": "Tasks"
             }
           }
         ],
@@ -201,6 +201,12 @@
   "active": "be28173dd5f5668f",
   "lastOpenFiles": [
     "Tasks.md",
+    "00_Inbox/егэ инфа.md",
+    "02_Log/Days/2026-07-01.md",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
+    "02_Log/Days/2026-07-02.md",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260702080905986.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260702080910470.png",
     "02_Log/Days/2026-06-29.md",
     "Dashboard.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
@@ -220,9 +226,6 @@
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132257856.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258124.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258186.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258160.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258036.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260622132258038.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132257854.pdf",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258294.pdf",
     "System/[SYS_INIT].md",
@@ -248,8 +251,6 @@
     "Ежеденевник/Планы по неделям/2026/Неделя 26.md",
     "База знаний/ЕГЭ/Русский/Словарики/Номер 10.md",
     "Ежеденевник/Планы по неделям/2026/Неделя 19.md",
-    "Ежеденевник/Планы по неделям/2026/Неделя 18.md",
-    "Ежеденевник/Планы по неделям/2026/Неделя 17.md",
-    "Ежеденевник/Планы по неделям/2026/Неделя 16.md"
+    "Ежеденевник/Планы по неделям/2026/Неделя 18.md"
   ]
 }

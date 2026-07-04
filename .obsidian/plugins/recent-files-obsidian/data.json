@@ -5,6 +5,30 @@
       "path": "Tasks.md"
     },
     {
+      "basename": "2026-07-02",
+      "path": "02_Log/Days/2026-07-02.md"
+    },
+    {
+      "basename": "2026-06-22",
+      "path": "02_Log/Days/2026-06-22.md"
+    },
+    {
+      "basename": "Past Simple",
+      "path": "03_Knowledge/English/Grammar_Engine/Past Simple.md"
+    },
+    {
+      "basename": "Present Perfect",
+      "path": "03_Knowledge/English/Grammar_Engine/Present Perfect.md"
+    },
+    {
+      "basename": "Present Perfect Continuous",
+      "path": "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "03_Knowledge/English/Grammar_Engine/Present Simple.md"
+    },
+    {
       "basename": "2026-W27",
       "path": "02_Log/Week/2026-W27.md"
     },
@@ -35,30 +59,6 @@
     {
       "basename": "Номер 17",
       "path": "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas"
-    },
-    {
-      "basename": "Задание 17 (прич и дееприч оборот)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот).md"
-    },
-    {
-      "basename": "Задание 18 (вводные слова и обращения)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 18 (вводные слова и обращения).md"
-    },
-    {
-      "basename": "Задание 16 (ССП и однородные)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 16 (ССП и однородные).md"
-    },
-    {
-      "basename": "Задание 15 (Н и НН)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН).md"
-    },
-    {
-      "basename": "Задание 13 (НЕ и НИ)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ).md"
-    },
-    {
-      "basename": "Задание 10 (приставки)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки).md"
     }
   ],
   "omittedPaths": [
