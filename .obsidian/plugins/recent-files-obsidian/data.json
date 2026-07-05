@@ -5,6 +5,22 @@
       "path": "Tasks.md"
     },
     {
+      "basename": "2026-W27",
+      "path": "02_Log/Week/2026-W27.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "СЕО",
+      "path": "00_Inbox/СЕО.md"
+    },
+    {
+      "basename": "2026-07-04",
+      "path": "02_Log/Days/2026-07-04.md"
+    },
+    {
       "basename": "2026-07-02",
       "path": "02_Log/Days/2026-07-02.md"
     },
@@ -29,10 +45,6 @@
       "path": "03_Knowledge/English/Grammar_Engine/Present Simple.md"
     },
     {
-      "basename": "2026-W27",
-      "path": "02_Log/Week/2026-W27.md"
-    },
-    {
       "basename": "2026-06-30",
       "path": "02_Log/Days/2026-06-30.md"
     },
@@ -47,18 +59,6 @@
     {
       "basename": "IMG-20260629213129130",
       "path": "System/Investments/PDF/ Audio/ Other/IMG-20260629213129130.png"
-    },
-    {
-      "basename": "IMG-20260629213129112",
-      "path": "System/Investments/PDF/ Audio/ Other/IMG-20260629213129112.png"
-    },
-    {
-      "basename": "IMG-20260629213129039",
-      "path": "System/Investments/PDF/ Audio/ Other/IMG-20260629213129039.png"
-    },
-    {
-      "basename": "Номер 17",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas"
     }
   ],
   "omittedPaths": [
