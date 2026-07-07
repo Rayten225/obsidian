@@ -3,6 +3,8 @@
 ### 📌 Глобальный Бэклог (Без дедлайна)
 - [ ] Обсудить с мамой обследование в Екб 
 - [ ] Велюр , проанализировать падение 
+- [ ] начать полностью контролировать подготовку к егэ и относится очень серьёзно и разбирать все ошибки досконально
+- [ ] развешать белье у бабушки
 
 ---
 ### ⏳ Забытое в ежедневниках (Долги)
@@ -11,7 +13,9 @@ TASK
 WHERE contains(file.name, "-W")
 WHERE !completed
 WHERE section != null
-WHERE date(substring(meta(section).subpath, length(meta(section).subpath) - 10)) <= date(today)
+FLATTEN date(substring(meta(section).subpath, length(meta(section).subpath) - 10)) AS taskDate
+WHERE taskDate <= date(today)
+WHERE dateformat(taskDate, "kkkk-WW") = dateformat(date(today), "kkkk-WW")
 GROUP BY file.link
 ```
 
@@ -24,7 +28,6 @@ SORT (date(today) - last_check).days DESC
 LIMIT 1
 ```
 
-### 🎯 Огневой рубеж: Ударения
 ```dataviewjs
 const filePath = "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md";
 const tFile = app.vault.getAbstractFileByPath(filePath);
@@ -57,7 +60,7 @@ if (allTasks.length > 0 && openTasks.length === 0) {
     return;
 }
 
-const limit = 10;
+const limit = 20;
 const processedToday = allTasks.filter(t => t.text.includes(`🗓️${today}`)).length;
 const remain = limit - processedToday;
 
@@ -157,7 +160,7 @@ batch.forEach(t => {
 
 dv.container.appendChild(container);
 ```
-### 🎯 Огневой рубеж: Формы слова
+
 ```dataviewjs
 const filePath = "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md";
 const tFile = app.vault.getAbstractFileByPath(filePath);
@@ -190,7 +193,7 @@ if (allTasks.length > 0 && openTasks.length === 0) {
     return;
 }
 
-const limit = 10;
+const limit = 20;
 const processedToday = allTasks.filter(t => t.text.includes(`🗓️${today}`)).length;
 const remain = limit - processedToday;
 
@@ -292,15 +295,4 @@ batch.forEach(t => {
 });
 
 dv.container.appendChild(container);
-```
-
-
-### 🗄️ Склад изученного (Пройденный материал)
-> [!success]- Нажми сюда, чтобы развернуть список уже освоенных слов
-```dataview
-TASK
-FROM "03_Knowledge/ЕГЭ/Русский"
-WHERE completed
-SORT file.mtime ASC
-LIMIT 10
 ```

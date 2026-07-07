@@ -30,6 +30,9 @@ try {
 -%>
 ---
 type: week
+rus_score:
+math_score: 
+inf_score:
 ---
 # 📅 Неделя <% wn %> (<% days[0].date %> — <% days[6].date %>)
 
