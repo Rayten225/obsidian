@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c550d6259d259cf4",
+        "id": "b36a005fa2158655",
         "type": "tabs",
         "children": [
           {
-            "id": "c82aeeded768a10f",
+            "id": "b438f5123e34d6b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Days/2026-07-07.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-07"
+              "title": "Tasks"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Log/Days/2026-07-07.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 2026-07-07"
+              "title": "Граф Tasks"
             }
           },
           {
@@ -298,17 +298,19 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "c82aeeded768a10f",
+  "active": "b438f5123e34d6b1",
   "lastOpenFiles": [
-    "02_Log/Days/2026-07-06.md",
-    "02_Log/Days/2026-07-07.md",
+    "Dashboard.md",
+    "02_Log/Week/2026-W28.md",
+    "02_Log/Days/2026-07-08.md",
     "Tasks.md",
+    "02_Log/Days/2026-07-07.sync-conflict-20260707-232228-DGZJFEV.md",
+    "02_Log/Days/2026-07-07.md",
+    "02_Log/Days/2026-07-06.md",
+    "00_Inbox/СЕО.md",
     "03_Knowledge/English/Chunks_Vocabulary/Have you ever.md",
     "03_Knowledge/ЕГЭ/Error_Tracker.md",
-    "02_Log/Week/2026-W28.md",
-    "02_Log/Week/2026-W28.md",
     "02_Log/Week/2026-W27.md",
-    "Dashboard.md",
     "02_Log/Days/2026-06-22.md",
     "02_Log/Week/2026-W26.md",
     "02_Log/Days/2026-06-29.md",
@@ -321,12 +323,10 @@
     "tree.txt",
     "System/Templates/Day template.md",
     "00_Inbox/егэ инфа.md",
-    "00_Inbox/СЕО.md",
     "00_Inbox/Русский ЕГЭ.md",
     "03_Knowledge/English/Grammar_Engine/Past Simple.md",
     "03_Knowledge/English/Grammar_Engine/Present Perfect.md",
     "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md",
-    "03_Knowledge/English/Grammar_Engine/Present Simple.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
