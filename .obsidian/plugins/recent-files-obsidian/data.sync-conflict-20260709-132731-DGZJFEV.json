@@ -9,14 +9,6 @@
       "path": "02_Log/Week/2026-W28.md"
     },
     {
-      "basename": "Summer ideas",
-      "path": "01_Domains/Summer ideas.md"
-    },
-    {
-      "basename": "2026-07-09",
-      "path": "02_Log/Days/2026-07-09.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -59,6 +51,14 @@
     {
       "basename": "00_Словник_Ударения",
       "path": "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md"
+    },
+    {
+      "basename": "01_Формы_Слов",
+      "path": "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md"
+    },
+    {
+      "basename": "2026-06-22",
+      "path": "02_Log/Days/2026-06-22.md"
     }
   ],
   "omittedPaths": [
