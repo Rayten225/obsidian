@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W28.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W28"
+              "title": "Tasks"
             }
           }
         ],
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01_Domains/Summer ideas.md",
+            "file": "Tasks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,6 +214,8 @@
   },
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
+    "02_Log/Days/2026-07-13.md",
+    "03_Knowledge/Что любит вика.md",
     "Tasks.md",
     "02_Log/Days/2026-07-09.md",
     "02_Log/Week/2026-W28.md",
@@ -256,14 +258,12 @@
     "Ежеденевник/Планы по неделям/2026/Неделя 25.md",
     "Занятия на лето.md",
     "Ежеденевник/Планы по неделям/2026/Неделя 24.md",
-    "Шаблоны/Шаблон неделя.md",
     "База знаний/ЕГЭ/Русский/Номер 18.canvas",
     "База знаний/ЕГЭ/Русский/Номер 16.canvas",
     "База знаний/ЕГЭ/Русский/Номер 15.canvas",
     "База знаний/ЕГЭ/Русский/Номер 13.canvas",
     "База знаний/ЕГЭ/Русский/Номер 10.canvas",
     "База знаний/ЕГЭ/Русский/Задание 7.canvas",
-    "База знаний/Английский/Chunks.md",
     "Вложения/PDF/Задание_7__Теория__Слова_для_заучивания__afgk3.pdf",
     "База знаний/ЕГЭ/Русский/Задание 18.canvas"
   ]
