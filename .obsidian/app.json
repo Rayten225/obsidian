@@ -4,5 +4,6 @@
   "newFileFolderPath": "02_Log/Days",
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "openBehavior": "file:Tasks"
+  "openBehavior": "file:Tasks",
+  "spellcheck": false
 }

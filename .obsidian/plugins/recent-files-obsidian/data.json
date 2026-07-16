@@ -5,10 +5,6 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "2026-07-14",
-      "path": "02_Log/Days/2026-07-14.md"
-    },
-    {
       "basename": "2026-07-15",
       "path": "02_Log/Days/2026-07-15.md"
     },
@@ -17,12 +13,24 @@
       "path": "02_Log/Week/2026-W29.md"
     },
     {
-      "basename": "2026-07-10",
-      "path": "02_Log/Days/2026-07-10.md"
+      "basename": "русский 11",
+      "path": "00_Inbox/русский 11.md"
+    },
+    {
+      "basename": "СЕО",
+      "path": "01_Domains/СЕО.md"
+    },
+    {
+      "basename": "2026-07-14",
+      "path": "02_Log/Days/2026-07-14.md"
     },
     {
       "basename": "2026-07-13",
       "path": "02_Log/Days/2026-07-13.md"
+    },
+    {
+      "basename": "2026-07-10",
+      "path": "02_Log/Days/2026-07-10.md"
     },
     {
       "basename": "2026-07-11",
@@ -51,14 +59,6 @@
     {
       "basename": "Summer ideas",
       "path": "01_Domains/Summer ideas.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "2026-07-07",
-      "path": "02_Log/Days/2026-07-07.md"
     }
   ],
   "omittedPaths": [
