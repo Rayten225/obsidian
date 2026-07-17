@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-W29"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Tasks"
+              "title": "Граф 2026-W29"
             }
           },
           {
@@ -300,6 +300,7 @@
   },
   "active": "b438f5123e34d6b1",
   "lastOpenFiles": [
+    "Tasks.md",
     "02_Log/Week/2026-W29.md",
     "02_Log/Days/2026-07-15.md",
     "00_Inbox/русский 11.md",
@@ -307,7 +308,6 @@
     "00_Inbox/егэ инфа.md",
     "02_Log/Days/2026-07-14.md",
     "02_Log/Days/2026-07-13.md",
-    "Tasks.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714193958708.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714193941828.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714180927475.png",
