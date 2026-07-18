@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W29.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W29"
+              "title": "Tasks"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Log/Week/2026-W29.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 2026-W29"
+              "title": "Граф Tasks"
             }
           },
           {
@@ -301,7 +301,13 @@
   "active": "b438f5123e34d6b1",
   "lastOpenFiles": [
     "Tasks.md",
+    "02_Log/Days/2026-07-18.md",
     "02_Log/Week/2026-W29.md",
+    "02_Log/Week/2026-W29.sync-conflict-20260718-025802-MPAEL2L.md",
+    "01_Domains/LifeHub/README.md",
+    "00_Inbox/Приложение.md",
+    "01_Domains/LifeHub",
+    "Dashboard.md",
     "02_Log/Days/2026-07-15.md",
     "00_Inbox/русский 11.md",
     "01_Domains/СЕО.md",
@@ -321,16 +327,11 @@
     "02_Log/Week/2026-W26.md",
     "02_Log/Week/2026-W27.md",
     "03_Knowledge/Что любит вика.md",
-    "Dashboard.md",
     "02_Log/Days/2026-07-07.sync-conflict-20260707-232228-DGZJFEV.md",
     "02_Log/Days/2026-07-07.md",
     "02_Log/Days/2026-07-06.md",
     "03_Knowledge/English/Chunks_Vocabulary/Have you ever.md",
     "03_Knowledge/ЕГЭ/Error_Tracker.md",
-    "02_Log/Days/2026-06-22.md",
-    "02_Log/Days/2026-06-29.md",
-    "02_Log/Days/2026-07-02.md",
-    "02_Log/Days/2026-06-26.md",
     "tree.txt",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
@@ -354,7 +355,6 @@
     "03_Knowledge/English",
     "Log/Days",
     "Log",
-    "03_Knowledge/Englich/Error_Tracker",
     "База знаний/ЕГЭ/Математика/Без названия.canvas"
   ]
 }
