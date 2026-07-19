@@ -5,12 +5,36 @@
       "path": "Tasks.md"
     },
     {
+      "basename": "README",
+      "path": "01_Domains/LifeHub/README.md"
+    },
+    {
+      "basename": "2026-W30",
+      "path": "02_Log/Week/2026-W30.md"
+    },
+    {
       "basename": "2026-W29",
       "path": "02_Log/Week/2026-W29.md"
     },
     {
       "basename": "2026-07-18",
       "path": "02_Log/Days/2026-07-18.md"
+    },
+    {
+      "basename": "2026-07-19",
+      "path": "02_Log/Days/2026-07-19.md"
+    },
+    {
+      "basename": "2026-07-17",
+      "path": "02_Log/Days/2026-07-17.md"
+    },
+    {
+      "basename": "2026-07-16",
+      "path": "02_Log/Days/2026-07-16.md"
+    },
+    {
+      "basename": "IMG-20260718142325438",
+      "path": "System/Investments/PDF/ Audio/ Other/IMG-20260718142325438.png"
     },
     {
       "basename": "Dashboard",
@@ -35,26 +59,6 @@
     {
       "basename": "2026-07-13",
       "path": "02_Log/Days/2026-07-13.md"
-    },
-    {
-      "basename": "2026-07-10",
-      "path": "02_Log/Days/2026-07-10.md"
-    },
-    {
-      "basename": "2026-07-11",
-      "path": "02_Log/Days/2026-07-11.md"
-    },
-    {
-      "basename": "2026-W28",
-      "path": "02_Log/Week/2026-W28.md"
-    },
-    {
-      "basename": "2026-07-09",
-      "path": "02_Log/Days/2026-07-09.md"
-    },
-    {
-      "basename": "2026-07-08",
-      "path": "02_Log/Days/2026-07-08.md"
     }
   ],
   "omittedPaths": [

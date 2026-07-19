@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -214,10 +214,10 @@
   },
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
+    "Tasks.md",
     "02_Log/Week/2026-W29.md",
     "02_Log/Week/2026-W27.md",
     "02_Log/Week/2026-W28.md",
-    "Tasks.md",
     "01_Domains/LifeHub/README.md",
     "01_Domains/LifeHub",
     "00_Inbox/Приложение.md",

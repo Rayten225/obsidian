@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b36a005fa2158655",
+        "id": "fcdf320cfb057983",
         "type": "tabs",
         "children": [
           {
-            "id": "b438f5123e34d6b1",
+            "id": "655d5714332d3746",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -298,11 +298,19 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "b438f5123e34d6b1",
+  "active": "655d5714332d3746",
   "lastOpenFiles": [
-    "Tasks.md",
-    "02_Log/Days/2026-07-18.md",
+    "02_Log/Week/2026-W30.md",
     "02_Log/Week/2026-W29.md",
+    "02_Log/Days/2026-07-18.md",
+    "02_Log/Days/2026-07-19.md",
+    "02_Log/Days/2026-07-17.md",
+    "02_Log/Days/2026-07-16.md",
+    "Tasks.md",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260718142325438.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260718142453699.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260718142406346.png",
+    "System/Investments/PDF/ Audio/ Other/IMG-20260718142220294.png",
     "02_Log/Week/2026-W29.sync-conflict-20260718-025802-MPAEL2L.md",
     "01_Domains/LifeHub/README.md",
     "00_Inbox/Приложение.md",
@@ -328,19 +336,11 @@
     "02_Log/Week/2026-W27.md",
     "03_Knowledge/Что любит вика.md",
     "02_Log/Days/2026-07-07.sync-conflict-20260707-232228-DGZJFEV.md",
-    "02_Log/Days/2026-07-07.md",
-    "02_Log/Days/2026-07-06.md",
-    "03_Knowledge/English/Chunks_Vocabulary/Have you ever.md",
-    "03_Knowledge/ЕГЭ/Error_Tracker.md",
     "tree.txt",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260702080910470.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260702080905986.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260629213129130.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.sync-conflict-20260629-213128-MPAEL2L.canvas",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260629213129112.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 18.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 16.canvas",
