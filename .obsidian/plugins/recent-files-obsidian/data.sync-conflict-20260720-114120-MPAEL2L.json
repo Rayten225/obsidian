@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "СЕО",
-      "path": "01_Domains/СЕО.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
       "basename": "2026-W30",
       "path": "02_Log/Week/2026-W30.md"
     },
@@ -21,20 +13,12 @@
       "path": "02_Log/Week/2026-W29.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "[SYS_INIT]",
-      "path": "System/[SYS_INIT].md"
-    },
-    {
-      "basename": "НПВ - Ступень 4",
-      "path": "01_Domains/НПВ/НПВ - Ступень 4.pdf"
-    },
-    {
       "basename": "2026-07-14",
       "path": "02_Log/Days/2026-07-14.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "README",
@@ -59,6 +43,22 @@
     {
       "basename": "IMG-20260718142325438",
       "path": "System/Investments/PDF/ Audio/ Other/IMG-20260718142325438.png"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "2026-07-15",
+      "path": "02_Log/Days/2026-07-15.md"
+    },
+    {
+      "basename": "русский 11",
+      "path": "00_Inbox/русский 11.md"
+    },
+    {
+      "basename": "СЕО",
+      "path": "01_Domains/СЕО.md"
     }
   ],
   "omittedPaths": [

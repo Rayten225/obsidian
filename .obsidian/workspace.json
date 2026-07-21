@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-W30"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Tasks"
+              "title": "Граф 2026-W30"
             }
           },
           {
@@ -300,13 +300,19 @@
   },
   "active": "655d5714332d3746",
   "lastOpenFiles": [
+    "02_Log/Days/2026-07-20.md",
     "02_Log/Week/2026-W30.md",
     "02_Log/Week/2026-W29.md",
+    "Dashboard.md",
+    "System/[SYS_INIT].md",
+    "01_Domains/НПВ/НПВ - Ступень 4.pdf",
+    "01_Domains/НПВ",
+    "Tasks.md",
+    "02_Log/Days/2026-07-14.md",
     "02_Log/Days/2026-07-18.md",
     "02_Log/Days/2026-07-19.md",
     "02_Log/Days/2026-07-17.md",
     "02_Log/Days/2026-07-16.md",
-    "Tasks.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260718142325438.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260718142453699.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260718142406346.png",
@@ -315,12 +321,10 @@
     "01_Domains/LifeHub/README.md",
     "00_Inbox/Приложение.md",
     "01_Domains/LifeHub",
-    "Dashboard.md",
     "02_Log/Days/2026-07-15.md",
     "00_Inbox/русский 11.md",
     "01_Domains/СЕО.md",
     "00_Inbox/егэ инфа.md",
-    "02_Log/Days/2026-07-14.md",
     "02_Log/Days/2026-07-13.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714193958708.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714193941828.png",
@@ -333,9 +337,6 @@
     "02_Log/Days/2026-07-09.md",
     "02_Log/Days/2026-07-08.md",
     "02_Log/Week/2026-W26.md",
-    "02_Log/Week/2026-W27.md",
-    "03_Knowledge/Что любит вика.md",
-    "02_Log/Days/2026-07-07.sync-conflict-20260707-232228-DGZJFEV.md",
     "tree.txt",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
@@ -353,8 +354,6 @@
     "03_Knowledge/English/Error_Tracker",
     "03_Knowledge/English/Chunks_Vocabulary",
     "03_Knowledge/English",
-    "Log/Days",
-    "Log",
     "База знаний/ЕГЭ/Математика/Без названия.canvas"
   ]
 }
