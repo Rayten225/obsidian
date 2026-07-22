@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Domains/СЕО.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "СЕО"
+              "title": "Tasks"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
+    "02_Log/Days/2026-07-21.md",
     "Tasks.md",
     "02_Log/Week/2026-W29.md",
     "02_Log/Week/2026-W27.md",
@@ -256,7 +257,6 @@
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258186.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132257854.pdf",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258294.pdf",
-    "System/[SYS_INIT].md",
     "Log/Days",
     "Log",
     "База знаний/ЕГЭ/Русский/Номер 18.canvas",

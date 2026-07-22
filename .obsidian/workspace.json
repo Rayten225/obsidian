@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ea4da97c78ab433",
@@ -300,6 +301,8 @@
   },
   "active": "655d5714332d3746",
   "lastOpenFiles": [
+    "Tasks.md",
+    "02_Log/Days/2026-07-21.md",
     "02_Log/Days/2026-07-20.md",
     "02_Log/Week/2026-W30.md",
     "02_Log/Week/2026-W29.md",
@@ -307,7 +310,6 @@
     "System/[SYS_INIT].md",
     "01_Domains/НПВ/НПВ - Ступень 4.pdf",
     "01_Domains/НПВ",
-    "Tasks.md",
     "02_Log/Days/2026-07-14.md",
     "02_Log/Days/2026-07-18.md",
     "02_Log/Days/2026-07-19.md",
