@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-W30"
             }
           }
         ],
@@ -214,8 +214,10 @@
   },
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
-    "02_Log/Days/2026-07-21.md",
+    "02_Log/Days/2026-07-22.md",
     "Tasks.md",
+    "02_Log/Week/2026-W30.md",
+    "02_Log/Days/2026-07-21.md",
     "02_Log/Week/2026-W29.md",
     "02_Log/Week/2026-W27.md",
     "02_Log/Week/2026-W28.md",
@@ -249,8 +251,6 @@
     "03_Knowledge/ЕГЭ/Русский/Номер 7.canvas",
     "System/Investments/PDF/ Audio/ Other/IMG-20260624101939087.pdf",
     "03_Knowledge/ЕГЭ/Русский/Номер 4.canvas",
-    "02_Log/Days/2026-06-24.md",
-    "Log/Days/2026-06-22.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258125.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132257856.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260622132258124.png",

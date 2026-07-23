@@ -9,14 +9,6 @@
       "path": "02_Log/Week/2026-W30.md"
     },
     {
-      "basename": "2026-07-23",
-      "path": "02_Log/Days/2026-07-23.md"
-    },
-    {
-      "basename": "2026-07-22",
-      "path": "02_Log/Days/2026-07-22.md"
-    },
-    {
       "basename": "2026-07-21",
       "path": "02_Log/Days/2026-07-21.md"
     },
@@ -59,6 +51,14 @@
     {
       "basename": "2026-07-19",
       "path": "02_Log/Days/2026-07-19.md"
+    },
+    {
+      "basename": "2026-07-17",
+      "path": "02_Log/Days/2026-07-17.md"
+    },
+    {
+      "basename": "2026-07-16",
+      "path": "02_Log/Days/2026-07-16.md"
     }
   ],
   "omittedPaths": [

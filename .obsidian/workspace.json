@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W30.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W30"
+              "title": "Tasks"
             }
           }
         ]
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "7ea4da97c78ab433",
@@ -135,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Log/Week/2026-W30.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 2026-W30"
+              "title": "Граф Tasks"
             }
           },
           {
@@ -194,8 +193,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -283,28 +282,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "obsidian-excalidraw-plugin:New drawing": true,
-      "switcher:Меню быстрого перехода": true,
-      "canvas:Создать новый холст": true,
-      "templates:Вставить шаблон": true,
-      "command-palette:Открыть палитру команд": true,
-      "bases:Создать новую базу": true,
-      "templater-obsidian:Templater": false,
+      "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "obsidian-git:Open Git source control": true
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "655d5714332d3746",
   "lastOpenFiles": [
     "Tasks.md",
+    "02_Log/Days/2026-07-22.md",
+    "02_Log/Week/2026-W30.md",
+    "02_Log/Days/2026-07-23.md",
+    "01_Domains/СЕО.md",
     "02_Log/Days/2026-07-21.md",
     "02_Log/Days/2026-07-20.md",
-    "02_Log/Week/2026-W30.md",
     "02_Log/Week/2026-W29.md",
     "Dashboard.md",
     "System/[SYS_INIT].md",
@@ -325,7 +327,6 @@
     "01_Domains/LifeHub",
     "02_Log/Days/2026-07-15.md",
     "00_Inbox/русский 11.md",
-    "01_Domains/СЕО.md",
     "00_Inbox/егэ инфа.md",
     "02_Log/Days/2026-07-13.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714193958708.png",
@@ -337,8 +338,6 @@
     "02_Log/Days/2026-07-10.md",
     "02_Log/Week/2026-W28.md",
     "02_Log/Days/2026-07-09.md",
-    "02_Log/Days/2026-07-08.md",
-    "02_Log/Week/2026-W26.md",
     "tree.txt",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
