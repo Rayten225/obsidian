@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W30.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W30"
+              "title": "Tasks"
             }
           }
         ],
@@ -191,8 +191,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -207,15 +207,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
-    "02_Log/Days/2026-07-22.md",
     "Tasks.md",
+    "00_Inbox/русский.md",
+    "03_Knowledge/ЕГЭ/Error_Tracker.md",
+    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
+    "02_Log/Week/2026-W31.md",
+    "01_Domains/Предложение вике.md",
+    "02_Log/Days/2026-07-22.md",
     "02_Log/Week/2026-W30.md",
     "02_Log/Days/2026-07-21.md",
     "02_Log/Week/2026-W29.md",
@@ -234,20 +239,15 @@
     "03_Knowledge/English/Chunks_Vocabulary/pay attention to.md",
     "03_Knowledge/English/Chunks_Vocabulary/get rid of.md",
     "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
-    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
     "00_Inbox/егэ инфа.md",
     "02_Log/Days/2026-07-01.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
-    "02_Log/Days/2026-07-02.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080905986.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080910470.png",
-    "02_Log/Days/2026-06-29.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот).md",
     "Pasted image 20260629142651.png",
     "Pasted image 20260629142909.png",
     "Pasted image 20260629101518.png",
-    "02_Log/Week/2026-W26.md",
     "03_Knowledge/ЕГЭ/Русский/Номер 7.canvas",
     "System/Investments/PDF/ Audio/ Other/IMG-20260624101939087.pdf",
     "03_Knowledge/ЕГЭ/Русский/Номер 4.canvas",

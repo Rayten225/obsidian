@@ -5,60 +5,60 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "2026-W30",
-      "path": "02_Log/Week/2026-W30.md"
-    },
-    {
-      "basename": "2026-07-23",
-      "path": "02_Log/Days/2026-07-23.md"
-    },
-    {
-      "basename": "2026-07-22",
-      "path": "02_Log/Days/2026-07-22.md"
-    },
-    {
-      "basename": "2026-07-21",
-      "path": "02_Log/Days/2026-07-21.md"
-    },
-    {
-      "basename": "СЕО",
-      "path": "01_Domains/СЕО.md"
-    },
-    {
-      "basename": "2026-07-20",
-      "path": "02_Log/Days/2026-07-20.md"
-    },
-    {
-      "basename": "2026-W29",
-      "path": "02_Log/Week/2026-W29.md"
+      "basename": "2026-08-01",
+      "path": "02_Log/Days/2026-08-01.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
-      "basename": "[SYS_INIT]",
-      "path": "System/[SYS_INIT].md"
+      "basename": "2026-07-31",
+      "path": "02_Log/Days/2026-07-31.md"
     },
     {
-      "basename": "НПВ - Ступень 4",
-      "path": "01_Domains/НПВ/НПВ - Ступень 4.pdf"
+      "basename": "2026-07-30",
+      "path": "02_Log/Days/2026-07-30.md"
     },
     {
-      "basename": "2026-07-14",
-      "path": "02_Log/Days/2026-07-14.md"
+      "basename": "2026-07-28",
+      "path": "02_Log/Days/2026-07-28.md"
     },
     {
-      "basename": "README",
-      "path": "01_Domains/LifeHub/README.md"
+      "basename": "2026-07-29",
+      "path": "02_Log/Days/2026-07-29.md"
     },
     {
-      "basename": "2026-07-18",
-      "path": "02_Log/Days/2026-07-18.md"
+      "basename": "2026-07-27",
+      "path": "02_Log/Days/2026-07-27.md"
     },
     {
-      "basename": "2026-07-19",
-      "path": "02_Log/Days/2026-07-19.md"
+      "basename": "2026-W31",
+      "path": "02_Log/Week/2026-W31.md"
+    },
+    {
+      "basename": "Error_Tracker",
+      "path": "03_Knowledge/ЕГЭ/Error_Tracker.md"
+    },
+    {
+      "basename": "русский",
+      "path": "00_Inbox/русский.md"
+    },
+    {
+      "basename": "01_Формы_Слов",
+      "path": "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md"
+    },
+    {
+      "basename": "Предложение вике",
+      "path": "01_Domains/Предложение вике.md"
+    },
+    {
+      "basename": "СЕО",
+      "path": "01_Domains/СЕО.md"
+    },
+    {
+      "basename": "2026-W30",
+      "path": "02_Log/Week/2026-W30.md"
     }
   ],
   "omittedPaths": [

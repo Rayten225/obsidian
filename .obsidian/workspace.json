@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcdf320cfb057983",
+        "id": "d70579e847cf19ee",
         "type": "tabs",
         "children": [
           {
-            "id": "655d5714332d3746",
+            "id": "3efa64cf47f5a099",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,7 +33,7 @@
       {
         "id": "e807f3b9e9eda545",
         "type": "tabs",
-        "dimension": 45.07462686567165,
+        "dimension": 43.653250773993804,
         "children": [
           {
             "id": "a779024a4f723570",
@@ -42,10 +42,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -80,7 +82,7 @@
       {
         "id": "2c98ee6432d34c41",
         "type": "tabs",
-        "dimension": 22.686567164179106,
+        "dimension": 24.148606811145513,
         "children": [
           {
             "id": "9b37226cf70d0caa",
@@ -101,7 +103,7 @@
       {
         "id": "6a5fe99b56b6e687",
         "type": "tabs",
-        "dimension": 32.23880597014925,
+        "dimension": 32.19814241486068,
         "children": [
           {
             "id": "30efe558dd8fec0f",
@@ -184,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Tasks"
+              "title": "Local graph"
             }
           },
           {
@@ -282,79 +284,79 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 329.89453125
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "655d5714332d3746",
+  "active": "3efa64cf47f5a099",
   "lastOpenFiles": [
-    "Tasks.md",
-    "02_Log/Days/2026-07-22.md",
-    "02_Log/Week/2026-W30.md",
-    "02_Log/Days/2026-07-23.md",
-    "01_Domains/СЕО.md",
-    "02_Log/Days/2026-07-21.md",
-    "02_Log/Days/2026-07-20.md",
-    "02_Log/Week/2026-W29.md",
     "Dashboard.md",
-    "System/[SYS_INIT].md",
+    "02_Log/Days/2026-08-01.md",
+    "02_Log/Days/2026-07-31.md",
+    "02_Log/Days/2026-07-30.md",
+    "02_Log/Days/2026-07-28.md",
+    "02_Log/Days/2026-07-29.md",
+    "02_Log/Days/2026-07-27.md",
+    "02_Log/Week/2026-W31.md",
+    "Tasks.md",
+    "Untitled.md",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки/Пробники/Влад_Сошников_лето_соч_00_10__b5j9b.pdf",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки/Пробники",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки/Приставки/Ошибки квизы.md",
+    "00_Inbox/Приложение.md",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки/русский.md",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки/Ударения/Ошибки квизы.md",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки/Приставки",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки/Ударения",
+    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
+    "03_Knowledge/ЕГЭ/Русский/Ошибки",
+    "Drawing 2026-07-30 17.17.32.excalidraw.md",
+    "Drawing 2026-07-29 11.44.12.excalidraw.md",
+    "01_Domains/СЕО.md",
+    "01_Domains/Предложение вике.md",
+    "02_Log/Week/2026-W30.md",
+    "02_Log/Days/2026-07-25.md",
+    "Pasted image 20260727111945.png",
+    "02_Log/Days/2026-07-24.md",
+    "02_Log/Days/2026-07-23.md",
+    "02_Log/Days/2026-07-21.md",
+    "02_Log/Days/2026-07-22.md",
+    "02_Log/Days/2026-07-20.md",
+    "история.txt",
     "01_Domains/НПВ/НПВ - Ступень 4.pdf",
     "01_Domains/НПВ",
-    "02_Log/Days/2026-07-14.md",
-    "02_Log/Days/2026-07-18.md",
-    "02_Log/Days/2026-07-19.md",
-    "02_Log/Days/2026-07-17.md",
-    "02_Log/Days/2026-07-16.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260718142325438.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260718142453699.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260718142406346.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260718142220294.png",
-    "02_Log/Week/2026-W29.sync-conflict-20260718-025802-MPAEL2L.md",
-    "01_Domains/LifeHub/README.md",
-    "00_Inbox/Приложение.md",
     "01_Domains/LifeHub",
-    "02_Log/Days/2026-07-15.md",
-    "00_Inbox/русский 11.md",
-    "00_Inbox/егэ инфа.md",
-    "02_Log/Days/2026-07-13.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714193958708.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714193941828.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714180927475.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714132609256.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714132501475.png",
-    "02_Log/Days/2026-07-11.md",
-    "02_Log/Days/2026-07-10.md",
-    "02_Log/Week/2026-W28.md",
-    "02_Log/Days/2026-07-09.md",
     "tree.txt",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.sync-conflict-20260629-213128-MPAEL2L.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 18.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 16.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 7.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 15.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 13.canvas",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 4.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера",
-    "03_Knowledge/English/Grammar_Engine",
-    "03_Knowledge/English/Error_Tracker",
-    "03_Knowledge/English/Chunks_Vocabulary",
-    "03_Knowledge/English",
     "База знаний/ЕГЭ/Математика/Без названия.canvas"
   ]
 }
