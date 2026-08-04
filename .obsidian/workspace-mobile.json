@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Days/2026-08-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-08-04"
             }
           }
         ],
@@ -82,7 +82,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -215,6 +217,9 @@
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
     "Tasks.md",
+    "02_Log/Days/2026-08-04.md",
+    "02_Log/Week/2026-W32.md",
+    "02_Log/Days/2026-08-03.md",
     "00_Inbox/русский.md",
     "03_Knowledge/ЕГЭ/Error_Tracker.md",
     "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
@@ -238,9 +243,6 @@
     "03_Knowledge/English/Chunks_Vocabulary/Have you ever.md",
     "03_Knowledge/English/Chunks_Vocabulary/pay attention to.md",
     "03_Knowledge/English/Chunks_Vocabulary/get rid of.md",
-    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
-    "00_Inbox/егэ инфа.md",
-    "02_Log/Days/2026-07-01.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080905986.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080910470.png",

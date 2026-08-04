@@ -5,60 +5,56 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "2026-08-01",
-      "path": "02_Log/Days/2026-08-01.md"
+      "basename": "2026-W32",
+      "path": "02_Log/Week/2026-W32.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "2026-07-31",
-      "path": "02_Log/Days/2026-07-31.md"
-    },
-    {
-      "basename": "2026-07-30",
-      "path": "02_Log/Days/2026-07-30.md"
-    },
-    {
-      "basename": "2026-07-28",
-      "path": "02_Log/Days/2026-07-28.md"
-    },
-    {
-      "basename": "2026-07-29",
-      "path": "02_Log/Days/2026-07-29.md"
-    },
-    {
-      "basename": "2026-07-27",
-      "path": "02_Log/Days/2026-07-27.md"
+      "basename": "2026-08-04",
+      "path": "02_Log/Days/2026-08-04.md"
     },
     {
       "basename": "2026-W31",
       "path": "02_Log/Week/2026-W31.md"
     },
     {
-      "basename": "Error_Tracker",
-      "path": "03_Knowledge/ЕГЭ/Error_Tracker.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
-      "basename": "русский",
-      "path": "00_Inbox/русский.md"
+      "basename": "Июнь",
+      "path": "Archive/Ежеденевник/Планы по месяцам/2026/Июнь.md"
     },
     {
-      "basename": "01_Формы_Слов",
-      "path": "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md"
+      "basename": "Неделя 23",
+      "path": "Archive/Ежеденевник/Планы по неделям/2026/Неделя 23.md"
     },
     {
-      "basename": "Предложение вике",
-      "path": "01_Domains/Предложение вике.md"
+      "basename": "2026-W26",
+      "path": "02_Log/Week/2026-W26.md"
+    },
+    {
+      "basename": "README",
+      "path": "01_Domains/LifeHub/README.md"
+    },
+    {
+      "basename": "Week template",
+      "path": "System/Templates/Week template.md"
+    },
+    {
+      "basename": "Day template",
+      "path": "System/Templates/Day template.md"
+    },
+    {
+      "basename": "2026-08-03",
+      "path": "02_Log/Days/2026-08-03.md"
     },
     {
       "basename": "СЕО",
       "path": "01_Domains/СЕО.md"
     },
     {
-      "basename": "2026-W30",
-      "path": "02_Log/Week/2026-W30.md"
+      "basename": "2026-08-02",
+      "path": "02_Log/Days/2026-08-02.md"
     }
   ],
   "omittedPaths": [

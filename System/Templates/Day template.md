@@ -15,6 +15,10 @@ const dayName = dayNames[noteDate.day()];
 const headingName = `${dayName} — ${title}`;
 -%>
 ---
+type: day
+tags:
+  - day
+week: "[[<% weekFileName %>]]"
 work_time: 0
 ege_time: 0
 gym_weight: 0
@@ -23,6 +27,14 @@ english_done: false
 # 🗓 <% dayName %>, <% title %>
 
 ### 🎯 План на день
+- [ ] Встать в 7:00
+- [ ] Почистить зубы
+- [ ] Позавтракать
+- [ ] Выпить кретин и протеин
+- [ ] Выпить креатин после тренировки (если есть)
+- [ ] Почистить зубы перед сном 
+- [ ] Лечь спать в 23:00
+### Учебный план:
 ![[<% weekFileName %>#<% headingName %>]]
 
 ---
