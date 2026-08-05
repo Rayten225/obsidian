@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "02_Log/Week/2026-W32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-W32"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks.md",
+                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)/Словник.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.89453125
+    "width": 329.89453125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,10 +318,18 @@
   },
   "active": "d748b36ef16e3164",
   "lastOpenFiles": [
-    "02_Log/Week/2026-W31.md",
-    "Dashboard.md",
+    "Tasks.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)/Словник.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Untitled.md",
     "02_Log/Week/2026-W32.md",
+    "Dashboard.md",
     "02_Log/Days/2026-08-04.md",
+    "02_Log/Week/2026-W27.md",
+    "02_Log/Week/2026-W32.sync-conflict-20260804-194411-MPAEL2L.md",
+    "02_Log/Days/2026-08-04.sync-conflict-20260804-194411-MPAEL2L.md",
+    "02_Log/Week/2026-W31.md",
     "Untitled.md",
     "Archive/Ежеденевник/Планы по месяцам/2026/Июнь.md",
     "Archive/Ежеденевник/Планы по неделям/2026/Неделя 23.md",
@@ -331,22 +340,15 @@
     "02_Log/Days/2026-08-03.md",
     "01_Domains/СЕО.md",
     "02_Log/Days/2026-08-02.md",
-    "Tasks.md",
     "02_Log/Days/2026-08-01.md",
     "02_Log/Days/2026-07-31.md",
     "02_Log/Days/2026-07-30.md",
     "02_Log/Days/2026-07-28.md",
     "02_Log/Days/2026-07-29.md",
-    "02_Log/Days/2026-07-27.md",
     "03_Knowledge/ЕГЭ/Русский/Ошибки/Пробники/Влад_Сошников_лето_соч_00_10__b5j9b.pdf",
     "03_Knowledge/ЕГЭ/Русский/Ошибки/Пробники",
-    "03_Knowledge/ЕГЭ/Русский/Ошибки/Приставки/Ошибки квизы.md",
-    "00_Inbox/Приложение.md",
-    "03_Knowledge/ЕГЭ/Русский/Ошибки/русский.md",
-    "03_Knowledge/ЕГЭ/Русский/Ошибки/Ударения/Ошибки квизы.md",
     "03_Knowledge/ЕГЭ/Русский/Ошибки/Приставки",
     "03_Knowledge/ЕГЭ/Русский/Ошибки/Ударения",
-    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
     "03_Knowledge/ЕГЭ/Русский/Ошибки",
     "Pasted image 20260727111945.png",
     "история.txt",
@@ -362,14 +364,13 @@
     "System/Investments/PDF/ Audio/ Other/IMG-20260714180927475.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714132609256.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260714132501475.png",
-    "tree.txt",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.sync-conflict-20260629-213128-MPAEL2L.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 18.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 16.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 7.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 15.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)/Номер 15.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 13.canvas",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 4.canvas",
     "База знаний/ЕГЭ/Математика/Без названия.canvas"
