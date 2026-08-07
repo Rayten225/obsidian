@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Days/2026-08-04.md",
+                "file": "02_Log/Days/2026-08-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-04"
+              "title": "2026-08-06"
             }
           }
         ],
@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tasks.md",
+            "file": "02_Log/Days/2026-08-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,9 +216,12 @@
   },
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
+    "Tasks.md",
+    "02_Log/Days/2026-08-06.md",
+    "System/[SYS_INIT].md",
+    "02_Log/Days/2026-08-05.md",
     "System/Templates/Day template.md",
     "02_Log/Days/2026-08-04.md",
-    "Tasks.md",
     "02_Log/Week/2026-W32.md",
     "02_Log/Days/2026-08-03.md",
     "00_Inbox/русский.md",
@@ -240,9 +243,6 @@
     "03_Knowledge/Что любит вика.md",
     "02_Log/Days/2026-07-09.md",
     "02_Log/Days/2026-07-07.md",
-    "02_Log/Days/2026-07-06.md",
-    "03_Knowledge/English/Chunks_Vocabulary/Have you ever.md",
-    "03_Knowledge/English/Chunks_Vocabulary/pay attention to.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080905986.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080910470.png",

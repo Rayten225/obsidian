@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W32.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W32"
+              "title": "Tasks"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)/Словник.md",
+                "file": "01_Domains/СЕО.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,12 +318,15 @@
   },
   "active": "d748b36ef16e3164",
   "lastOpenFiles": [
+    "02_Log/Days/2026-08-06.md",
+    "02_Log/Week/2026-W32.md",
+    "02_Log/Days/2026-08-05.md",
+    "02_Log/Days/2026-08-06.sync-conflict-20260806-073825-ADCXXVZ.md",
     "Tasks.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)/Словник.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)",
     "03_Knowledge/ЕГЭ/Русский/Номера/Untitled.md",
-    "02_Log/Week/2026-W32.md",
     "Dashboard.md",
     "02_Log/Days/2026-08-04.md",
     "02_Log/Week/2026-W27.md",
@@ -342,9 +345,6 @@
     "02_Log/Days/2026-08-02.md",
     "02_Log/Days/2026-08-01.md",
     "02_Log/Days/2026-07-31.md",
-    "02_Log/Days/2026-07-30.md",
-    "02_Log/Days/2026-07-28.md",
-    "02_Log/Days/2026-07-29.md",
     "03_Knowledge/ЕГЭ/Русский/Ошибки/Пробники/Влад_Сошников_лето_соч_00_10__b5j9b.pdf",
     "03_Knowledge/ЕГЭ/Русский/Ошибки/Пробники",
     "03_Knowledge/ЕГЭ/Русский/Ошибки/Приставки",
