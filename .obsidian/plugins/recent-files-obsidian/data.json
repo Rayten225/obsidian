@@ -5,12 +5,28 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "Ошибки в квизах",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/!!! Задание 8 (синтаксические нормы)/Ошибки в квизах.md"
+      "basename": "[SYS_INIT]",
+      "path": "System/[SYS_INIT].md"
+    },
+    {
+      "basename": "2026-08-10",
+      "path": "02_Log/Days/2026-08-10.md"
+    },
+    {
+      "basename": "СЕО",
+      "path": "01_Domains/СЕО.md"
+    },
+    {
+      "basename": "2026-W33",
+      "path": "02_Log/Week/2026-W33.md"
     },
     {
       "basename": "2026-W32",
       "path": "02_Log/Week/2026-W32.md"
+    },
+    {
+      "basename": "Ошибки в квизах",
+      "path": "03_Knowledge/ЕГЭ/Русский/Номера/!!! Задание 8 (синтаксические нормы)/Ошибки в квизах.md"
     },
     {
       "basename": "2026-08-08",
@@ -43,22 +59,6 @@
     {
       "basename": "Ошибки квизы",
       "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова)/Ошибки квизы.md"
-    },
-    {
-      "basename": "IMG-20260808122421689",
-      "path": "System/Investments/PDF/ Audio/ Other/IMG-20260808122421689.pdf"
-    },
-    {
-      "basename": "Номер 7",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова)/Номер 7.canvas"
-    },
-    {
-      "basename": "Формулы",
-      "path": "03_Knowledge/ЕГЭ/Математика/Формулы.md"
-    },
-    {
-      "basename": "Ошибки ударения",
-      "path": "03_Knowledge/ЕГЭ/Русский/Ошибки ударения.md"
     }
   ],
   "omittedPaths": [
