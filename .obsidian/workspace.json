@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Knowledge/ЕГЭ/Русский/Номера/!!! Задание 8 (синтаксические нормы)/Ошибки в квизах.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ошибки в квизах"
+              "title": "Tasks"
             }
           }
         ]
@@ -42,12 +42,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -289,13 +287,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": true,
       "obsidian-git:Open Git source control": true
