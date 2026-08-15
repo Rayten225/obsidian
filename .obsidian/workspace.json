@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Log/Days/2026-08-12.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.89453125,
-    "collapsed": true
+    "width": 329.89453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,10 +302,11 @@
   },
   "active": "d748b36ef16e3164",
   "lastOpenFiles": [
-    "02_Log/Days/2026-08-13.md",
-    "01_Domains/СЕО.md",
+    "02_Log/Days/2026-08-14.md",
     "02_Log/Week/2026-W33.md",
     "Tasks.md",
+    "02_Log/Days/2026-08-13.md",
+    "01_Domains/СЕО.md",
     "02_Log/Days/2026-08-11.md",
     "02_Log/Days/2026-08-12.md",
     "02_Log/Days/2026-08-10.md",
@@ -331,7 +331,6 @@
     "03_Knowledge/ЕГЭ/Русский/Ошибки ударения.md",
     "03_Knowledge/ЕГЭ/Error_Tracker.md",
     "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
-    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Сочинения/Ошибки",
     "03_Knowledge/ЕГЭ/Русский/Номера/Сочинения/Ошибки/Влад_Сошников_лето_соч_00_10__b5j9b.pdf",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Номер 10.canvas",
