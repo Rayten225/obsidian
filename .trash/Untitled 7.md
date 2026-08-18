@@ -1,0 +1,56 @@
+---
+type: week
+tags:
+  - week
+rus_score:
+math_score:
+inf_score:
+---
+# 📅 Неделя 33 (2026-08-10 — 2026-08-16)
+
+### 📊 Авто-сводка за неделю
+```dataviewjs
+
+const weekDates = ["2026-08-10", "2026-08-11", "2026-08-12", "2026-08-13", "2026-08-14", "2026-08-15", "2026-08-16"];
+
+const pages = dv.pages().where(p => weekDates.includes(p.file.name));
+
+dv.table(["День", "💻 Код (ч)", "📚 ЕГЭ (ч)", "💪 Тоннаж (кг)", "🇬🇧 Англ"], 
+    pages.sort(p => p.file.name).map(p => [p.file.link, p.work_time || 0, p.ege_time || 0, p.gym_weight || 0, p.english_done ? "✅" : "❌"])
+);
+let tWork = 0, tEge = 0, tGym = 0, tEng = 0;
+pages.forEach(p => { tWork += p.work_time || 0; tEge += p.ege_time || 0; tGym += p.gym_weight || 0; if(p.english_done) tEng++; });
+dv.paragraph("> **🔥 ИТОГИ НЕДЕЛИ:** Код: " + tWork + " ч | ЕГЭ: " + tEge + " ч | Тоннаж: " + tGym + " кг | Англ: " + tEng + " дн");
+```
+
+
+### 📝 Планы по дням
+
+
+#### Пн — 2026-08-10
+- [ ] 
+
+
+#### Вт — 2026-08-11
+- [ ] 
+
+
+#### Ср — 2026-08-12
+- [ ] 
+
+
+#### Чт — 2026-08-13
+- [ ] 
+
+
+#### Пт — 2026-08-14
+- [ ] 
+
+
+#### Сб — 2026-08-15
+- [ ] 
+
+
+#### Вс — 2026-08-16
+- [ ] 
+
