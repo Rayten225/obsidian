@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Days/2026-08-18.md",
+                "file": "02_Log/Days/2026-08-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-18"
+              "title": "2026-08-19"
             }
           }
         ],
@@ -216,10 +216,12 @@
   },
   "active": "1d2e82dd50085480",
   "lastOpenFiles": [
-    "System/Templates/Day template.md",
     "02_Log/Days/2026-08-18.md",
-    "02_Log/Week/2026-W34.md",
+    "02_Log/Days/2026-08-19.md",
+    "Untitled.canvas",
     "Tasks.md",
+    "System/Templates/Day template.md",
+    "02_Log/Week/2026-W34.md",
     "02_Log/Days/2026-08-17.md",
     "02_Log/Week/2026-W32.sync-conflict-20260816-133142-ADCXXVZ.md",
     "Tasks.sync-conflict-20260816-133140-ADCXXVZ.md",
@@ -240,9 +242,7 @@
     "02_Log/Week/2026-W29.md",
     "02_Log/Week/2026-W27.md",
     "02_Log/Week/2026-W28.md",
-    "01_Domains/LifeHub/README.md",
     "01_Domains/LifeHub",
-    "00_Inbox/Приложение.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080905986.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080910470.png",
@@ -267,7 +267,6 @@
     "База знаний/ЕГЭ/Русский/Номер 13.canvas",
     "База знаний/ЕГЭ/Русский/Номер 10.canvas",
     "База знаний/ЕГЭ/Русский/Задание 7.canvas",
-    "Вложения/PDF/Задание_7__Теория__Слова_для_заучивания__afgk3.pdf",
-    "База знаний/ЕГЭ/Русский/Задание 18.canvas"
+    "Вложения/PDF/Задание_7__Теория__Слова_для_заучивания__afgk3.pdf"
   ]
 }

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
+      "basename": "2026-08-20",
+      "path": "02_Log/Days/2026-08-20.md"
+    },
+    {
+      "basename": "2026-W34",
+      "path": "02_Log/Week/2026-W34.md"
+    },
+    {
+      "basename": "СЕО",
+      "path": "01_Domains/СЕО.md"
+    },
+    {
+      "basename": "СЕО.sync-conflict-20260816-133145-ADCXXVZ",
+      "path": "01_Domains/СЕО.sync-conflict-20260816-133145-ADCXXVZ.md"
+    },
+    {
+      "basename": "2026-08-19",
+      "path": "02_Log/Days/2026-08-19.md"
     },
     {
       "basename": "2026-08-18",
@@ -13,8 +29,8 @@
       "path": "System/Templates/Day template.md"
     },
     {
-      "basename": "2026-W34",
-      "path": "02_Log/Week/2026-W34.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "2026-08-17",
@@ -43,22 +59,6 @@
     {
       "basename": "1 - Зависимые предлоги с прилагательными",
       "path": "03_Knowledge/English/Lessons/B1/1 - Зависимые предлоги с прилагательными.md"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "03_Knowledge/English/Grammar_Engine/Present Simple.md"
-    },
-    {
-      "basename": "Present Perfect Continuous",
-      "path": "03_Knowledge/English/Grammar_Engine/Present Perfect Continuous.md"
-    },
-    {
-      "basename": "Present Perfect",
-      "path": "03_Knowledge/English/Grammar_Engine/Present Perfect.md"
-    },
-    {
-      "basename": "Future Simple",
-      "path": "03_Knowledge/English/Grammar_Engine/Future Simple.md"
     }
   ],
   "omittedPaths": [
