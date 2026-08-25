@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-W35",
+      "path": "02_Log/Week/2026-W35.md"
+    },
+    {
+      "basename": "2026-08-25",
+      "path": "02_Log/Days/2026-08-25.md"
+    },
+    {
+      "basename": "русский",
+      "path": "00_Inbox/русский.md"
+    },
+    {
+      "basename": "СЕО",
+      "path": "01_Domains/СЕО.md"
+    },
+    {
       "basename": "2026-08-24",
       "path": "02_Log/Days/2026-08-24.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "2026-W34",
@@ -27,38 +47,6 @@
     {
       "basename": "Словник паронимов",
       "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 5 (паронимы)/Словник паронимов.md"
-    },
-    {
-      "basename": "СЕО",
-      "path": "01_Domains/СЕО.md"
-    },
-    {
-      "basename": "СЕО.sync-conflict-20260816-133145-ADCXXVZ",
-      "path": "01_Domains/СЕО.sync-conflict-20260816-133145-ADCXXVZ.md"
-    },
-    {
-      "basename": "2026-08-18",
-      "path": "02_Log/Days/2026-08-18.md"
-    },
-    {
-      "basename": "Day template",
-      "path": "System/Templates/Day template.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "2026-08-17",
-      "path": "02_Log/Days/2026-08-17.md"
-    },
-    {
-      "basename": "Tasks.sync-conflict-20260816-133140-ADCXXVZ",
-      "path": "Tasks.sync-conflict-20260816-133140-ADCXXVZ.md"
-    },
-    {
-      "basename": "2026-W33",
-      "path": "02_Log/Week/2026-W33.md"
     }
   ],
   "omittedPaths": [
