@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-W35",
-      "path": "02_Log/Week/2026-W35.md"
+      "basename": "2026-08-26",
+      "path": "02_Log/Days/2026-08-26.md"
+    },
+    {
+      "basename": "повторение",
+      "path": "03_Knowledge/ЕГЭ/Математика/повторение.md"
     },
     {
       "basename": "2026-08-25",
       "path": "02_Log/Days/2026-08-25.md"
     },
     {
+      "basename": "Формулы",
+      "path": "03_Knowledge/ЕГЭ/Математика/Формулы.md"
+    },
+    {
       "basename": "русский",
       "path": "00_Inbox/русский.md"
+    },
+    {
+      "basename": "2026-W35",
+      "path": "02_Log/Week/2026-W35.md"
+    },
+    {
+      "basename": "2026-W26",
+      "path": "02_Log/Week/2026-W26.md"
     },
     {
       "basename": "СЕО",
@@ -43,10 +59,6 @@
     {
       "basename": "2026-08-20",
       "path": "02_Log/Days/2026-08-20.md"
-    },
-    {
-      "basename": "Словник паронимов",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 5 (паронимы)/Словник паронимов.md"
     }
   ],
   "omittedPaths": [
