@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Days/2026-09-01.md",
+                "file": "02_Log/Days/2026-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-01"
+              "title": "2026-09-09"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Log/Days/2026-09-01.md",
+                "file": "03_Knowledge/Программирование/Go теория/Go под капотом.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,8 +275,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ],
@@ -284,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.4296875
+    "width": 322.4296875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,16 +297,21 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": true,
-      "obsidian-git:Open Git source control": true
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "221137e8cfb84462",
   "lastOpenFiles": [
-    "02_Log/Days/2026-08-31.md",
-    "02_Log/Days/2026-09-01.md",
-    "02_Log/Days/2026-08-27.md",
+    "03_Knowledge/Программирование/Django/Как создать сайт на Django.md",
+    "03_Knowledge/Программирование/Django/Как полностью создать обьект и API.md",
     "02_Log/Week/2026-W36.md",
+    "02_Log/Days/2026-09-03.md",
+    "02_Log/Days/2026-09-02.md",
+    "02_Log/Days/2026-09-01.md",
+    "System/Templates/Day template.md",
+    "02_Log/Days/2026-08-31.md",
+    "02_Log/Days/2026-08-27.md",
     "02_Log/Week/2026-W35.md",
     "02_Log/Days/2026-08-30.md",
     "02_Log/Days/2026-08-29.md",
@@ -323,11 +329,6 @@
     "02_Log/Days/IMG-20260622132246256.png.md",
     "03_Knowledge/ЕГЭ/Математика/Формулы.md",
     "00_Inbox/инфа.md",
-    "02_Log/Week/2026-W26.md",
-    "01_Domains/СЕО.md",
-    "02_Log/Days/2026-08-24.md",
-    "01_Domains/СЕО.sync-conflict-20260816-133145-ADCXXVZ.md",
-    "Archive/Ежеденевник/Планы по неделям/2026/Неделя 24.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 5 (паронимы)",
     "03_Knowledge/English/Lessons/B1",
     "03_Knowledge/English/Lessons",
