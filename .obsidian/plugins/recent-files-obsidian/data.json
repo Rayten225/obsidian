@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-W37",
+      "path": "02_Log/Week/2026-W37.md"
+    },
+    {
       "basename": "2026-09-10",
       "path": "02_Log/Days/2026-09-10.md"
     },
     {
-      "basename": "2026-W37",
-      "path": "02_Log/Week/2026-W37.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "2026-09-07",
+      "path": "02_Log/Days/2026-09-07.md"
+    },
+    {
+      "basename": "2026-09-08",
+      "path": "02_Log/Days/2026-09-08.md"
     },
     {
       "basename": "[SYS_INIT]",
@@ -43,22 +59,6 @@
     {
       "basename": "2026-09-04",
       "path": "02_Log/Days/2026-09-04.md"
-    },
-    {
-      "basename": "2026-09-03",
-      "path": "02_Log/Days/2026-09-03.md"
-    },
-    {
-      "basename": "Go под капотом",
-      "path": "03_Knowledge/Программирование/Go теория/Go под капотом.md"
-    },
-    {
-      "basename": "Как создать сайт на Django",
-      "path": "03_Knowledge/Программирование/Django/Как создать сайт на Django.md"
-    },
-    {
-      "basename": "Как полностью создать обьект и API",
-      "path": "03_Knowledge/Программирование/Django/Как полностью создать обьект и API.md"
     }
   ],
   "omittedPaths": [

@@ -1,23 +1,30 @@
 
-### 📌 Глобальный Бэклог (Без дедлайна)
-- [ ] Обсудить с мамой обследование в Екб
-- [ ] сделать обои с плэйбой карти
-- [ ] обои adapt, obsession  determination
-- [ ] починить кубик и стим дек 
+```dataviewjs
+const tasks = dv.pages().file.tasks.where(t => !t.completed);
 
----
-### ⏳ Забытое в ежедневниках (Долги)
-```dataview
-TASK
-WHERE contains(file.name, "-W")
-WHERE !completed
-WHERE section != null
-FLATTEN date(substring(meta(section).subpath, length(meta(section).subpath) - 10)) AS taskDate
-WHERE taskDate <= date(today)
-WHERE dateformat(taskDate, "kkkk-WW") = dateformat(date(today), "kkkk-WW")
-GROUP BY file.link
+const q1 = tasks.where(t => t.text.includes("#q1"));
+const q2 = tasks.where(t => t.text.includes("#q2"));
+const q3 = tasks.where(t => t.text.includes("#q3"));
+const q4 = tasks.where(t => t.text.includes("#q4"));
+
+dv.span(`<b style="color: #EF4444; font-size: 1.2em;">🔥 Q1: Срочно и Важно (#q1)</b><br><span style="font-size: 0.85em; color: var(--text-muted);">Сделать немедленно</span>`);
+if (q1.length > 0) dv.taskList(q1, false);
+else dv.paragraph("*Чисто*");
+
+dv.span(`<br><b style="color: #10B981; font-size: 1.2em;">🎯 Q2: Важно, не срочно (#q2)</b><br><span style="font-size: 0.85em; color: var(--text-muted);">Запланировать в календарь</span>`);
+if (q2.length > 0) dv.taskList(q2, false);
+else dv.paragraph("*Чисто*");
+
+dv.span(`<br><b style="color: #F59E0B; font-size: 1.2em;">⚡ Q3: Срочно, не важно (#q3)</b><br><span style="font-size: 0.85em; color: var(--text-muted);">Делегировать или автоматизировать</span>`);
+if (q3.length > 0) dv.taskList(q3, false);
+else dv.paragraph("*Чисто*");
+
+dv.span(`<br><b style="color: var(--text-muted); font-size: 1.2em;">🗑️ Q4: Не срочно и не важно (#q4)</b><br><span style="font-size: 0.85em; color: var(--text-muted);">Игнорировать</span>`);
+if (q4.length > 0) dv.taskList(q4, false);
+else dv.paragraph("*Чисто*");
 ```
 
+---
 ### 🧠 Запылившиеся алгоритмы (Давно не вызывались)
 ```dataview
 TABLE task_num as "Задания", (date(today) - last_check).days as "Дней простоя"
@@ -294,4 +301,39 @@ batch.forEach(t => {
 });
 
 dv.container.appendChild(container);
+```
+```dataviewjs
+// Настройки карантина
+const CAPACITY = 5; 
+const REVIEW_DAY = 7; // Воскресенье
+const REVIEW_HOUR = 18; // 18:00
+
+// Вычисление дедлайна относительно текущего времени
+let nextReview = window.moment().isoWeekday(REVIEW_DAY).hour(REVIEW_HOUR).minute(0).second(0);
+if (window.moment().isAfter(nextReview)) {
+    nextReview.add(1, 'weeks');
+}
+
+const inboxTasks = dv.pages().file.tasks.where(t => !t.completed && t.text.includes("#inbox"));
+const count = inboxTasks.length;
+
+// Цветовая индикация перегруза
+let color = "#10B981"; // Зеленый (Норма)
+if (count >= CAPACITY) color = "#EF4444"; // Красный (Перегруз)
+else if (count >= CAPACITY * 0.7) color = "#F59E0B"; // Желтый (Внимание)
+
+dv.span(`
+<div style="background: var(--background-primary-alt); padding: 15px; border-radius: 8px; border: 1px solid var(--background-modifier-border); margin-bottom: 20px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <b style="color: ${color}; font-size: 1.1em;">📦 Буфер задач: ${count} / ${CAPACITY}</b>
+        <span style="font-size: 0.9em; color: var(--text-muted);">Разбор: <b>${nextReview.format("DD.MM в HH:mm")}</b> (${nextReview.fromNow()})</span>
+    </div>
+</div>
+`);
+
+if (count > 0) {
+    dv.taskList(inboxTasks, false);
+} else {
+    dv.paragraph("🔻 *Буфер пуст. Оперативная память свободна.*");
+}
 ```
