@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-W36",
-      "path": "02_Log/Week/2026-W36.md"
+      "basename": "2026-09-10",
+      "path": "02_Log/Days/2026-09-10.md"
+    },
+    {
+      "basename": "2026-W37",
+      "path": "02_Log/Week/2026-W37.md"
+    },
+    {
+      "basename": "[SYS_INIT]",
+      "path": "System/[SYS_INIT].md"
     },
     {
       "basename": "2026-09-09",
       "path": "02_Log/Days/2026-09-09.md"
+    },
+    {
+      "basename": "2026-W33",
+      "path": "02_Log/Week/2026-W33.md"
+    },
+    {
+      "basename": "2026-W34",
+      "path": "02_Log/Week/2026-W34.md"
+    },
+    {
+      "basename": "2026-W35",
+      "path": "02_Log/Week/2026-W35.md"
+    },
+    {
+      "basename": "2026-W36",
+      "path": "02_Log/Week/2026-W36.md"
     },
     {
       "basename": "2026-09-06",
@@ -35,30 +59,6 @@
     {
       "basename": "Как полностью создать обьект и API",
       "path": "03_Knowledge/Программирование/Django/Как полностью создать обьект и API.md"
-    },
-    {
-      "basename": "2026-09-02",
-      "path": "02_Log/Days/2026-09-02.md"
-    },
-    {
-      "basename": "2026-09-01",
-      "path": "02_Log/Days/2026-09-01.md"
-    },
-    {
-      "basename": "Day template",
-      "path": "System/Templates/Day template.md"
-    },
-    {
-      "basename": "2026-08-31",
-      "path": "02_Log/Days/2026-08-31.md"
-    },
-    {
-      "basename": "2026-W35",
-      "path": "02_Log/Week/2026-W35.md"
-    },
-    {
-      "basename": "2026-08-30",
-      "path": "02_Log/Days/2026-08-30.md"
     }
   ],
   "omittedPaths": [
