@@ -1,4 +1,4 @@
-
+ 
 ### 📅 Стена дисциплины 
 ```dataviewjs
 const today = window.moment().format("YYYY-MM-DD");
