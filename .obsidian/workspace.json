@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Log/Week/2026-W38.md",
+                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Словарь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W38"
+              "title": "Словарь"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,11 +314,16 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "8bac6faa1afabf02",
+  "active": "221137e8cfb84462",
   "lastOpenFiles": [
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Словарь.md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Задание 13 (НЕ и НИ).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Номер 13.canvas",
+    "02_Log/Week/2026-W38.md",
+    "02_Log/Days/2026-09-16.md",
+    "02_Log/Days/2026-09-15.md",
     "02_Log/Days/2026-09-14.md",
     "00_Inbox/Как зарождался бизнес.md",
-    "02_Log/Week/2026-W38.md",
     "02_Log/Week/2026-W37.md",
     "System/Investments/PDF/ Audio/ Other/IMG-20260914104341712.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260914104336983.png",
@@ -343,10 +347,6 @@
     "02_Log/Days/2026-09-06.md",
     "02_Log/Days/2026-09-05.md",
     "02_Log/Days/2026-09-04.md",
-    "02_Log/Days/2026-09-03.md",
-    "03_Knowledge/Программирование/Django/Как создать сайт на Django.md",
-    "03_Knowledge/Программирование/Django/Как полностью создать обьект и API.md",
-    "02_Log/Days/2026-09-02.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 5 (паронимы)",
     "03_Knowledge/English/Lessons/B1",
     "03_Knowledge/English/Lessons",
@@ -369,7 +369,6 @@
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.sync-conflict-20260629-213128-MPAEL2L.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 18 (вводные слова и обращения)/Номер 18.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)/Номер 15.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Номер 13.canvas",
     "03_Knowledge/ЕГЭ/Русский/Схемы/Номер 4.canvas",
     "База знаний/ЕГЭ/Математика/Без названия.canvas"
   ]
