@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-09-18",
+      "path": "02_Log/Days/2026-09-18.md"
+    },
+    {
       "basename": "2026-W38",
       "path": "02_Log/Week/2026-W38.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00_Inbox/Untitled.md"
+    },
+    {
+      "basename": "2026-09-17",
+      "path": "02_Log/Days/2026-09-17.md"
     },
     {
       "basename": "Словарь",
@@ -47,18 +59,6 @@
     {
       "basename": "Tasks",
       "path": "Tasks.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "2026-09-11",
-      "path": "02_Log/Days/2026-09-11.md"
-    },
-    {
-      "basename": "[SYS_INIT]",
-      "path": "System/[SYS_INIT].md"
     }
   ],
   "omittedPaths": [
