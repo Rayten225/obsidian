@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"8698628efca5a34c","type":"text","text":"# Нахождение корня ","x":-147,"y":-112,"width":287,"height":72},
+		{"id":"7703c4202950bf3b","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920125757215.png","x":860,"y":-276,"width":390,"height":400},
+		{"id":"e54bd63cddc11953","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920130105219.png","x":-1180,"y":-272,"width":400,"height":393},
+		{"id":"e2ce129d38b60123","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920130143725.png","x":-1180,"y":180,"width":400,"height":251},
+		{"id":"ce007e1ad6b19439","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920125930351.png","x":-203,"y":-929,"width":400,"height":498},
+		{"id":"ad77cfb9d5fceb0b","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920125942613.png","x":240,"y":-628,"width":400,"height":197},
+		{"id":"45425d419d21fff6","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920130401604.png","x":170,"y":360,"width":540,"height":487},
+		{"id":"b01c98e0c35a8b27","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920130627382.png","x":-1337,"y":-1430,"width":557,"height":750},
+		{"id":"e171df139961e3ab","type":"file","file":"System/Investments/PDF/ Audio/ Other/IMG-20260920130327729.png","x":-625,"y":360,"width":478,"height":594}
+	],
+	"edges":[
+		{"id":"f3de0e20f2905f60","fromNode":"8698628efca5a34c","fromSide":"right","toNode":"7703c4202950bf3b","toSide":"left","label":"Зависят от ударения"},
+		{"id":"f60c16ee414dfeae","fromNode":"8698628efca5a34c","fromSide":"left","toNode":"e54bd63cddc11953","toSide":"right","label":"Зависит от следующих букв"},
+		{"id":"8482827734df5217","fromNode":"e54bd63cddc11953","fromSide":"bottom","toNode":"e2ce129d38b60123","toSide":"top"},
+		{"id":"ea6b2bb6837fa5d8","fromNode":"8698628efca5a34c","fromSide":"top","toNode":"ce007e1ad6b19439","toSide":"bottom","label":"Зависит от суффикса А"},
+		{"id":"17d46d070c01ef28","fromNode":"ce007e1ad6b19439","fromSide":"right","toNode":"ad77cfb9d5fceb0b","toSide":"left"},
+		{"id":"dd612ecf297acf62","fromNode":"8698628efca5a34c","fromSide":"bottom","toNode":"e171df139961e3ab","toSide":"top","label":"Зависит от значения"},
+		{"id":"6787eca6f3b70316","fromNode":"8698628efca5a34c","fromSide":"bottom","toNode":"45425d419d21fff6","toSide":"top","label":"Запомнить"},
+		{"id":"b9246b7ffc52c753","fromNode":"7703c4202950bf3b","fromSide":"right","toNode":"b01c98e0c35a8b27","toSide":"top"},
+		{"id":"1088d9a9cc6f18e6","fromNode":"ce007e1ad6b19439","fromSide":"top","toNode":"b01c98e0c35a8b27","toSide":"top"},
+		{"id":"dca84c451c171e00","fromNode":"e2ce129d38b60123","fromSide":"bottom","toNode":"b01c98e0c35a8b27","toSide":"top"},
+		{"id":"3cbc2eac89e3f0f5","fromNode":"e171df139961e3ab","fromSide":"bottom","toNode":"b01c98e0c35a8b27","toSide":"top"}
+	]
+}
