@@ -8,20 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "221137e8cfb84462",
+            "id": "f8712da59182ad24",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Номер 11.canvas",
-                "viewState": {
-                  "x": 180.86033134636864,
-                  "y": -779.144422055039,
-                  "zoom": -0.5999999999999999
-                }
+                "file": "03_Knowledge/English/Lessons/Grammar in Use/Past Continues/Unit 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Номер 11"
+              "icon": "lucide-file",
+              "title": "Unit 1"
+            }
+          },
+          {
+            "id": "56bb07afc4ad73ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Knowledge/English/ENGLISH_HUB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ENGLISH_HUB"
             }
           }
         ]
@@ -122,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5859375
+    "width": 316.5859375,
+    "collapsed": true
   },
   "right": {
     "id": "7ea4da97c78ab433",
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Номер 11.canvas",
+                "file": "03_Knowledge/English/Lessons/Grammar in Use/Past Continues/Unit 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.4296875
+    "width": 322.4296875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,40 +316,52 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "221137e8cfb84462",
+  "active": "f8712da59182ad24",
   "lastOpenFiles": [
-    "Pasted image 20260920171406.png",
-    "Pasted image 20260920171358.png",
-    "Pasted image 20260920171331.png",
-    "Pasted image 20260920170658.png",
-    "Pasted image 20260920164523.png",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Задание 11 (Суффиксы).md",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Задание_10__Теория__7h1nf.pdf",
+    "03_Knowledge/English/ENGLISH_HUB.md",
+    "02_Log/Days/2026-09-21.md",
+    "03_Knowledge/English/Lessons/Grammar in Use/Past Continues/Unit 1.md",
+    "03_Knowledge/English/Lessons/Grammar in Use/Past Continues",
+    "03_Knowledge/English/Lessons/Grammar in Use",
+    "03_Knowledge/English/MUCLecture_2022_5217521.pdf",
+    "02_Log/Week/2026-W39.md",
+    "03_Knowledge/English/Lessons/B1/1 - Зависимые предлоги с прилагательными.md",
+    "Tasks.md",
+    "02_Log/Days/2026-09-20.md",
+    "02_Log/Week/2026-W38.md",
+    "Dashboard.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Задание 10 (приставки).md",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Номер 11.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Задание_11__Теория__a3315.pdf",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Задание 13 (НЕ и НИ).md",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Номер 13.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Drawing 2026-09-20 14.00.42.excalidraw.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Номер 10.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 12 (окончание главголов и суффиксы причастий)/Задание 12 (окончание главголов и суффиксы причастий).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 12 (окончание главголов и суффиксы причастий)/Номер 12.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Номер 11.canvas",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Номер 13.canvas",
+    "System/Investments/Изображения/Pasted image 20260920171406.png",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Задание 11 (Суффиксы).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Задание 13 (НЕ и НИ).md",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 12 (окончание главголов и суффиксы причастий)",
+    "System/Investments/Изображения/Pasted image 20260920171358.png",
+    "System/Investments/Изображения/Pasted image 20260920171331.png",
+    "System/Investments/Изображения/Pasted image 20260920170658.png",
+    "System/Investments/Изображения/Pasted image 20260920164523.png",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Задание_10__Теория__7h1nf.pdf",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Задание_11__Теория__a3315.pdf",
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Drawing 2026-09-20 14.00.42.excalidraw.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)",
-    "Pasted image 20260920135506.png",
-    "Pasted image 20260920135431.png",
-    "Pasted image 20260920135412.png",
+    "System/Investments/Изображения/Pasted image 20260920135506.png",
+    "System/Investments/Изображения/Pasted image 20260920135431.png",
+    "System/Investments/Изображения/Pasted image 20260920135412.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 9 (корни)/Задание 9 (корни).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 9 (корни)/Задание_9__Корни_с_чередованием__Теория__978sp.pdf",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 13 (НЕ и НИ)/Словарь.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 9 (корни)/Номер 9.canvas",
     "System/Investments/PDF/ Audio/ Other/IMG-20260920130627382.png",
     "System/Investments/PDF/ Audio/ Other/IMG-20260920130401604.png",
-    "System/Investments/PDF/ Audio/ Other/IMG-20260920130327729.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова)/Номер 7.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 9 (приставки)/Untitled.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/!!! Задание 8 (синтаксические нормы)/Ошибки в квизах.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 9 (корни)",
     "03_Knowledge/ЕГЭ/Русский/Номера/Untitled.md",
-    "02_Log/Week/2026-W38.md",
-    "02_Log/Days/2026-09-20.md",
     "02_Log/Days/2026-09-19.md",
     "02_Log/Days/2026-09-18.md",
     "00_Inbox/Untitled.md",
@@ -344,22 +369,10 @@
     "02_Log/Days/2026-09-16.md",
     "02_Log/Days/2026-09-15.md",
     "02_Log/Days/2026-09-14.md",
-    "00_Inbox/Как зарождался бизнес.md",
-    "02_Log/Week/2026-W37.md",
-    "02_Log/Week/2026-W36.md",
-    "02_Log/Days/2026-09-13.md",
-    "02_Log/Days/2026-09-12.md",
-    "Tasks.md",
-    "Dashboard.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 5 (паронимы)",
-    "03_Knowledge/English/Lessons/B1",
-    "03_Knowledge/English/Lessons",
-    "03_Knowledge/ЕГЭ/Русский/Номера/!!! Задание 8 (синтаксические нормы)",
-    "plan.org",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 16 (ССП и однородные)/Номер 16.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот)/Номер 17.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Схемы/Номер 17.sync-conflict-20260629-213128-MPAEL2L.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 18 (вводные слова и обращения)/Номер 18.canvas",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 15 (Н и НН)/Номер 15.canvas"
+    "03_Knowledge/ЕГЭ/Русский/Номера/Задание 18 (вводные слова и обращения)/Номер 18.canvas"
   ]
 }
