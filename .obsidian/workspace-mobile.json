@@ -41,17 +41,14 @@
             "id": "be28173dd5f5668f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 11 (Суффиксы)/Номер 11.canvas",
-                "viewState": {
-                  "x": -1877.331317148813,
-                  "y": 325.1284286200346,
-                  "zoom": -0.8430324119283676
-                }
+                "file": "02_Log/Days/2026-09-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Номер 11"
+              "icon": "lucide-file",
+              "title": "2026-09-22"
             }
           }
         ],
@@ -205,6 +202,8 @@
   },
   "active": "be28173dd5f5668f",
   "lastOpenFiles": [
+    "02_Log/Week/2026-W39.md",
+    "02_Log/Days/2026-09-22.md",
     "02_Log/Days/2026-09-20.md",
     "02_Log/Days/2026-09-19.md",
     "02_Log/Days/2026-09-18.md",
@@ -229,8 +228,6 @@
     "02_Log/Days/2026-08-22.md",
     "02_Log/Days/2026-08-24.md",
     "02_Log/Days/2026-08-20.md",
-    "02_Log/Week/2026-W34.md",
-    "02_Log/Days/2026-08-18.md",
     "Untitled.canvas",
     "01_Domains/LifeHub",
     "System/Investments/PDF/ Audio/ Other/IMG-20260702080930601.png",
