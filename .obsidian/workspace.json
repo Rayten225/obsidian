@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b604db044af71982",
+        "id": "0f4d1338ca69d132",
         "type": "tabs",
         "children": [
           {
-            "id": "56bb07afc4ad73ea",
+            "id": "41c935fac6b629ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02_Log/Week/2026-W39.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,7 +33,7 @@
       {
         "id": "e807f3b9e9eda545",
         "type": "tabs",
-        "dimension": 43.20486815415821,
+        "dimension": 42.63959390862944,
         "children": [
           {
             "id": "a779024a4f723570",
@@ -80,9 +80,9 @@
         ]
       },
       {
-        "id": "c4bee5e03680218d",
+        "id": "8a22f712f0f76221",
         "type": "tabs",
-        "dimension": 24.036511156186613,
+        "dimension": 24.873096446700504,
         "children": [
           {
             "id": "9b5e9f613d361068",
@@ -91,7 +91,7 @@
               "type": "markdown",
               "state": {
                 "file": "System/[SYS_INIT].md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -103,7 +103,7 @@
       {
         "id": "6a5fe99b56b6e687",
         "type": "tabs",
-        "dimension": 32.758620689655174,
+        "dimension": 32.48730964467005,
         "children": [
           {
             "id": "30efe558dd8fec0f",
@@ -284,7 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.4296875
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,25 +300,29 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "56bb07afc4ad73ea",
+  "active": "41c935fac6b629ba",
   "lastOpenFiles": [
+    "02_Log/Days/2026-09-25.md",
+    "Tasks.md",
+    "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md",
+    "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md",
+    "Dashboard.md",
+    "02_Log/Week/2026-W39.md",
+    "03_Knowledge/English/ENGLISH_HUB.md",
+    "System/[SYS_INIT].md",
     "02_Log/Days/2026-09-24.md",
     "02_Log/Days/2026-09-23.md",
     "02_Log/Days/2026-09-23.sync-conflict-20260923-094247-ADCXXVZ.md",
-    "02_Log/Week/2026-W39.md",
     "02_Log/Days/2026-09-22.md",
     "02_Log/Days/2026-09-21.md",
-    "03_Knowledge/English/ENGLISH_HUB.md",
     "03_Knowledge/English/Lessons/Grammar in Use/Past Continues/Unit 2.md",
     "03_Knowledge/English/Lessons/Grammar in Use/Past Continues/Unit 1.md",
     "03_Knowledge/English/Lessons/Grammar in Use/Past Continues",
     "03_Knowledge/English/Lessons/Grammar in Use",
     "03_Knowledge/English/MUCLecture_2022_5217521.pdf",
     "03_Knowledge/English/Lessons/B1/1 - Зависимые предлоги с прилагательными.md",
-    "Tasks.md",
     "02_Log/Days/2026-09-20.md",
     "02_Log/Week/2026-W38.md",
-    "Dashboard.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Задание 10 (приставки).md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Номер 10.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 12 (окончание главголов и суффиксы причастий)/Задание 12 (окончание главголов и суффиксы причастий).md",
@@ -348,11 +352,7 @@
     "System/Investments/PDF/ Audio/ Other/IMG-20260920130401604.png",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 7 (формы слова)/Номер 7.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 9 (приставки)/Untitled.md",
-    "03_Knowledge/ЕГЭ/Русский/Номера/!!! Задание 8 (синтаксические нормы)/Ошибки в квизах.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 9 (корни)",
-    "03_Knowledge/ЕГЭ/Русский/Номера/Untitled.md",
-    "02_Log/Days/2026-09-19.md",
-    "02_Log/Days/2026-09-18.md",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 5 (паронимы)",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 16 (ССП и однородные)/Номер 16.canvas",
     "03_Knowledge/ЕГЭ/Русский/Номера/Задание 17 (прич и дееприч оборот)/Номер 17.canvas",

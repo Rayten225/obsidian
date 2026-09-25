@@ -48,7 +48,7 @@ dv.span(`
 <div style="font-family: 'Courier New', monospace; font-size: 13px; line-height: 1.6; border-left: 3px solid #10B981; padding-left: 10px; background: rgba(16, 185, 129, 0.05); border-radius: 0 4px 4px 0; margin: 4px 0;">
     <b style="color:#10B981; font-size: 1.1em;">SYS.TELEMETRY // ОБЩИЙ НАЛЁТ</b><br>
     ├─ 📚 ЕГЭ:  <b>${clean(tEge)} ч.</b><br>
-    ├─ 🎯 Средний балл: <b>${totalAvgScore}/240</b> <span style="font-size:10px; color:var(--text-muted);"></span><br>
+    ├─ 🎯 Средний балл: <b>${totalAvgScore}/275</b> <span style="font-size:10px; color:var(--text-muted);"></span><br>
     ├─ 💻 Код / СЕО:  <b>${clean(tWork)} ч.</b><br>
     ├─ 💪 Тоннаж (зал): <b>${tGym.toLocaleString('ru-RU')} кг</b><br>
     └─ ⏳ Прыжок (ЕГЭ): <b style="color:#EF4444;">${daysLeft+1} дн.</b>

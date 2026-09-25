@@ -5,8 +5,36 @@
       "path": "02_Log/Week/2026-W39.md"
     },
     {
+      "basename": "2026-09-25",
+      "path": "02_Log/Days/2026-09-25.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "00_Словник_Ударения",
+      "path": "03_Knowledge/ЕГЭ/Русский/00_Словник_Ударения.md"
+    },
+    {
+      "basename": "01_Формы_Слов",
+      "path": "03_Knowledge/ЕГЭ/Русский/01_Формы_Слов.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "ENGLISH_HUB",
+      "path": "03_Knowledge/English/ENGLISH_HUB.md"
+    },
+    {
       "basename": "2026-09-24",
       "path": "02_Log/Days/2026-09-24.md"
+    },
+    {
+      "basename": "[SYS_INIT]",
+      "path": "System/[SYS_INIT].md"
     },
     {
       "basename": "2026-09-23",
@@ -21,10 +49,6 @@
       "path": "02_Log/Days/2026-09-21.md"
     },
     {
-      "basename": "ENGLISH_HUB",
-      "path": "03_Knowledge/English/ENGLISH_HUB.md"
-    },
-    {
       "basename": "Unit 2",
       "path": "03_Knowledge/English/Lessons/Grammar in Use/Past Continues/Unit 2.md"
     },
@@ -35,30 +59,6 @@
     {
       "basename": "MUCLecture_2022_5217521",
       "path": "03_Knowledge/English/MUCLecture_2022_5217521.pdf"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "2026-09-20",
-      "path": "02_Log/Days/2026-09-20.md"
-    },
-    {
-      "basename": "2026-W38",
-      "path": "02_Log/Week/2026-W38.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "Задание 10 (приставки)",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Задание 10 (приставки).md"
-    },
-    {
-      "basename": "Номер 10",
-      "path": "03_Knowledge/ЕГЭ/Русский/Номера/Задание 10 (приставки)/Номер 10.canvas"
     }
   ],
   "omittedPaths": [
